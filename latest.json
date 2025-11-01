@@ -1,0 +1,2334 @@
+{
+  "exportedAt": "2025-11-01T15:04:32.916Z",
+  "total": 139,
+  "records": [
+    {
+      "id": "rec04J6bNhLOTj4WH",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "A Life Among Elephants",
+      "Organizer/Chair": "Save the Elephants",
+      "Room ": "Saiga",
+      "start date": "4/12/2025",
+      "Start Time - sort": "2025-12-04T18:00:00.000Z",
+      "End": "20:30",
+      "Start": "19:00",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "4/12/2025",
+      "Start time - Panamanian Time": "19:00",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "rec0bqsN4a909TjIY",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "Wild Animals Not Pets\nSubtitle: Ensuring Responsible Pet Ownership Through Positive Lists in Consumer Markets",
+      "Organizer/Chair": "Animal Advocacy and Protection (AAP); co-host Eurogroup for Animals (EfA) ",
+      "Room ": "C. Asian Tortoise",
+      "start date": "29/11/2025",
+      "Start Time - sort": "2025-11-29T11:15:00.000Z",
+      "End": "13:45",
+      "Start": "12:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "29/11/2025",
+      "Start time - Panamanian Time": "12:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "rec1DTT2Sp4BjB9wP",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "A CMS Global Initiative",
+      "Organizer/Chair": "Convention on the Conservation of Migratory Species (with UZBEKISTAN, TURKMENISTAN, CPW and WCS)",
+      "Room ": "Markhor",
+      "start date": "28/11/2025",
+      "Start Time - sort": "2025-11-28T18:00:00.000Z",
+      "End": "20:30",
+      "Start": "19:00",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "28/11/2025",
+      "Start time - Panamanian Time": "19:00",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "rec1Wr3UAnKferYsW",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "Data Sharing and IWT",
+      "Organizer/Chair": "Fauna & Flora International \nCo-hosted ACBK, Institute of Zoology of UZ, TRAFFIC etc.",
+      "Room ": "Saker Falcon",
+      "start date": "27/11/2025",
+      "Start Time - sort": "2025-11-27T11:15:00.000Z",
+      "End": "13:45",
+      "Start": "12:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "27/11/2025",
+      "Start time - Panamanian Time": "12:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "rec29NmpAHKSfKa9h",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "Primates Trafficking",
+      "Organizer/Chair": "Legal Atlas (co-hosting with Gov of Uganda, PASA and IFAW)",
+      "Room ": "Saker Falcon",
+      "start date": "4/12/2025",
+      "Start Time - sort": "2025-12-04T11:15:00.000Z",
+      "End": "13:45",
+      "Start": "12:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "4/12/2025",
+      "Start time - Panamanian Time": "12:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "rec2XI4ddSCQ5jAOm",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "Uplisting to release\nSubtitle: CITES and National Action Driving Success for the Barbary Macaque",
+      "Organizer/Chair": "Animal Advocacy and Protection (AAP); co-hosts: Morocco; Utrecht University",
+      "Room ": "Great Bustard",
+      "start date": "25/11/2025",
+      "Start Time - sort": "2025-11-25T11:15:00.000Z",
+      "End": "13:45",
+      "Start": "12:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "25/11/2025",
+      "Start time - Panamanian Time": "12:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "rec3AGjLdfcuKdqdL",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "WOAH CC",
+      "Organizer/Chair": "Singapore",
+      "Room ": "C. Asian Tortoise",
+      "start date": "26/11/2025",
+      "Start Time - sort": "2025-11-26T11:15:00.000Z",
+      "End": "13:45",
+      "Start": "12:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "26/11/2025",
+      "Start time - Panamanian Time": "12:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "rec3Cap8OzobxnWUx",
+      "createdTime": "2025-10-29T14:20:10.000Z",
+      "Title": "Nature's Project: Forest Eco-classification for Biodiversity",
+      "Organizer/Chair": "“Green Engineering” Design Institute under the Ministry of Ecology, Environmental Protection and Climate Change",
+      "start date": "20/11/2025",
+      "Start Time - sort": "2025-11-20T08:29:00.000Z",
+      "Start": "09:29",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "20/11/2025",
+      "Start time - Panamanian Time": "09:29",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "rec4Uulf5csLaYMz3",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "Samarkand Declaration",
+      "Organizer/Chair": "Ministry of Ecology, Environmental Protection and Climate Change of the Republic of Uzbekistan, co-hosted with TRAFFIC",
+      "Room ": "Saiga",
+      "start date": "24/11/2025",
+      "Start Time - sort": "2025-11-24T11:15:00.000Z",
+      "End": "13:45",
+      "Start": "12:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "24/11/2025",
+      "Start time - Panamanian Time": "12:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "rec51a3Ntsc742k2D",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "Shaping CITES’ Future",
+      "Organizer/Chair": "Born Free Foundation",
+      "Room ": "Black Stork",
+      "start date": "3/12/2025",
+      "Start Time - sort": "2025-12-03T11:15:00.000Z",
+      "End": "13:45",
+      "Start": "12:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "3/12/2025",
+      "Start time - Panamanian Time": "12:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "rec54enc6rg1IQpYN",
+      "createdTime": "2025-10-31T16:03:14.000Z",
+      "Title": "Committee I",
+      "Room ": "Com I",
+      "start date": "25/11/2025",
+      "Start Time - sort": "2025-11-25T08:00:00.000Z",
+      "End": "12:00",
+      "Start": "09:00",
+      "Type": [
+        "Main mtg"
+      ],
+      "Start date - Panamanian date": "25/11/2025",
+      "Start time - Panamanian Time": "09:00",
+      "Last Modified": "2025-10-31T16:21:11.000Z"
+    },
+    {
+      "id": "rec5dmLzGhGxEtIVq",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "Trade in endemic species",
+      "Organizer/Chair": "Brazil and Ecuador",
+      "Room ": "Saker Falcon",
+      "start date": "26/11/2025",
+      "Start Time - sort": "2025-11-26T11:15:00.000Z",
+      "End": "13:45",
+      "Start": "12:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "26/11/2025",
+      "Start time - Panamanian Time": "12:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "rec5wGMMuAQQakn85",
+      "createdTime": "2025-10-31T16:08:37.000Z",
+      "Title": "Committee I",
+      "Room ": "Com I",
+      "start date": "28/11/2025",
+      "Start Time - sort": "2025-11-28T08:00:00.000Z",
+      "End": "12:00",
+      "Start": "09:00",
+      "Type": [
+        "Main mtg"
+      ],
+      "Start date - Panamanian date": "28/11/2025",
+      "Start time - Panamanian Time": "09:00",
+      "Last Modified": "2025-10-31T16:21:26.000Z"
+    },
+    {
+      "id": "rec61xyDCT2pyJNqZ",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "Big Cats/ Central Asia",
+      "Organizer/Chair": "WWF Central Asia",
+      "Room ": "Black Stork",
+      "start date": "2/12/2025",
+      "Start Time - sort": "2025-12-02T18:00:00.000Z",
+      "End": "20:30",
+      "Start": "19:00",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "2/12/2025",
+      "Start time - Panamanian Time": "19:00",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "rec8xMHvBWNXuHPd4",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "Tiger trade & the law ",
+      "Organizer/Chair": "TRAFFIC along with WWF and Legal Atlas ",
+      "Room ": "Saiga",
+      "start date": "25/11/2025",
+      "Start Time - sort": "2025-11-25T11:15:00.000Z",
+      "End": "13:45",
+      "Start": "12:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "25/11/2025",
+      "Start time - Panamanian Time": "12:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "rec9WR39W29qS7d4h",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "Ranched aquatic species\nLonger title: Is ‘Ranching’ relevant to aquatic species? Case studies, implications and challenges",
+      "Organizer/Chair": "ADM Capital Foundation (co-hosted with WWF, TRAFFIC,  International Council of Environmental Law, IUCN SSC Groupers and Wrasses Specialist Group)",
+      "Room ": "Saiga",
+      "start date": "28/11/2025",
+      "Start Time - sort": "2025-11-28T16:15:00.000Z",
+      "End": "18:45",
+      "Start": "17:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "28/11/2025",
+      "Start time - Panamanian Time": "17:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "rec9bf4NTpjeEw89b",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "Red JAGUAR",
+      "Organizer/Chair": "Autoridad Administrativa CITES España",
+      "Room ": "Great Bustard",
+      "start date": "3/12/2025",
+      "Start Time - sort": "2025-12-03T11:15:00.000Z",
+      "End": "13:45",
+      "Start": "12:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "3/12/2025",
+      "Start time - Panamanian Time": "12:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recBAbhhk4cucaS4D",
+      "createdTime": "2025-10-29T14:20:41.000Z",
+      "Title": "Official Signing ceremony of “Integrated Natural Resources Management for Improved Ecosystem Conservation and Biodiversity Preservation” project",
+      "Organizer/Chair": "Ministry of Ecology, Environmental Protection and Climate Change FAO-Uzbekistan",
+      "Room ": "Press Room",
+      "start date": "25/11/2025",
+      "Start Time - sort": "2025-11-25T16:00:00.000Z",
+      "End": "18:00",
+      "Start": "17:00",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "25/11/2025",
+      "Start time - Panamanian Time": "17:00",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recBIn2RhKsVLwWbA",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "CMS, CITES and Sharks ",
+      "Organizer/Chair": "Convention on the Conservation of Migratory Species (with GERMANY and Sharks MOU Advisory Committee)",
+      "Room ": "Saker Falcon",
+      "start date": "29/11/2025",
+      "Start Time - sort": "2025-11-29T16:15:00.000Z",
+      "End": "18:45",
+      "Start": "17:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "29/11/2025",
+      "Start time - Panamanian Time": "17:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recBPa0NcK0f3lvgY",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "Wildlife cybercrime \nNew Title: Building Innovative responses to wildlife cybercrime",
+      "Organizer/Chair": "IFAW, co-hosted by GITOC, EU",
+      "Room ": "Markhor",
+      "start date": "27/11/2025",
+      "Start Time - sort": "2025-11-27T18:00:00.000Z",
+      "End": "20:30",
+      "Start": "19:00",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "27/11/2025",
+      "Start time - Panamanian Time": "19:00",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recBbkCklotC01Jix",
+      "createdTime": "2025-11-01T15:02:44.000Z",
+      "Title": "TEST Imran",
+      "start date": "29/11/2025",
+      "Start Time - sort": "2025-11-29T15:03:00.000Z",
+      "End": "14:00",
+      "Start": "16:03",
+      "Start date - Panamanian date": "29/11/2025",
+      "Start time - Panamanian Time": "16:03",
+      "Last Modified": "2025-11-01T15:03:14.000Z"
+    },
+    {
+      "id": "recBsUsModmnv6zdw",
+      "createdTime": "2025-10-31T16:10:17.000Z",
+      "Title": "Committee II",
+      "Room ": "Com II",
+      "start date": "3/12/2025",
+      "Start Time - sort": "2025-12-03T08:00:00.000Z",
+      "End": "12:00",
+      "Start": "09:00",
+      "Type": [
+        "Main mtg"
+      ],
+      "Start date - Panamanian date": "3/12/2025",
+      "Start time - Panamanian Time": "09:00",
+      "Last Modified": "2025-10-31T16:22:03.000Z"
+    },
+    {
+      "id": "recEC1IgyBr5Wdmjs",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "HEC Toolbox Exhibition",
+      "Organizer/Chair": "Save the Elephants",
+      "Room ": "Markhor",
+      "start date": "3/12/2025",
+      "Start Time - sort": "2025-12-03T18:00:00.000Z",
+      "End": "20:30",
+      "Start": "19:00",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "3/12/2025",
+      "Start time - Panamanian Time": "19:00",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recEFYVkru6TJJ62h",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "Fish Maw Trade Impacts ",
+      "Organizer/Chair": "Animal Welfare Institute. Co-hosts: BLOOM HK, Center for Biological Diversity, Environmental Investigation Agency, IUCN Croaker and Drum Specialist Group, Natural Resources Defense Council, Wildlife Conservation Society.",
+      "Room ": "Markhor",
+      "start date": "29/11/2025",
+      "Start Time - sort": "2025-11-29T16:15:00.000Z",
+      "End": "18:45",
+      "Start": "17:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "29/11/2025",
+      "Start time - Panamanian Time": "17:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recEtNjDsRSFaWgAp",
+      "createdTime": "2025-10-31T16:07:46.000Z",
+      "Title": "Committee II",
+      "Room ": "Com II",
+      "start date": "27/11/2025",
+      "Start Time - sort": "2025-11-27T13:00:00.000Z",
+      "End": "17:00",
+      "Start": "14:00",
+      "Type": [
+        "Main mtg"
+      ],
+      "Start date - Panamanian date": "27/11/2025",
+      "Start time - Panamanian Time": "14:00",
+      "Last Modified": "2025-10-31T16:21:56.000Z"
+    },
+    {
+      "id": "recFPMznRa22T12nL",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "Trade, African Vultures",
+      "Organizer/Chair": "Niger, co-sponsored by the Convention on Migratory Species (via the Raptors MoU), BirdLife International, the IUCN SSC Vulture Specialist Group (VSG), and the Species Survival Network (SSN).",
+      "Room ": "Bukhara Deer",
+      "start date": "2/12/2025",
+      "Start Time - sort": "2025-12-02T18:00:00.000Z",
+      "End": "20:30",
+      "Start": "19:00",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "2/12/2025",
+      "Start time - Panamanian Time": "19:00",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recFjptpLf46Udcl5",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "DecadeofDemandReduction\nNew Title: A Decade of Demand Reduction",
+      "Organizer/Chair": "TRAFFIC - co-hosted with the German\n government through BMUKN",
+      "Room ": "Markhor",
+      "start date": "29/11/2025",
+      "Start Time - sort": "2025-11-29T11:15:00.000Z",
+      "End": "13:45",
+      "Start": "12:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "29/11/2025",
+      "Start time - Panamanian Time": "12:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recHLc71FcJ9E4Rbm",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "Conservation of Lions",
+      "Organizer/Chair": "India",
+      "Room ": "Saker Falcon",
+      "start date": "3/12/2025",
+      "Start Time - sort": "2025-12-03T16:15:00.000Z",
+      "End": "18:45",
+      "Start": "17:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "3/12/2025",
+      "Start time - Panamanian Time": "17:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recHgG9ewzODgbaFW",
+      "createdTime": "2025-10-31T16:09:15.000Z",
+      "Title": "Committee II",
+      "Room ": "Com II",
+      "start date": "29/11/2025",
+      "Start Time - sort": "2025-11-29T13:00:00.000Z",
+      "End": "17:00",
+      "Start": "14:00",
+      "Type": [
+        "Main mtg"
+      ],
+      "Start date - Panamanian date": "29/11/2025",
+      "Start time - Panamanian Time": "14:00",
+      "Last Modified": "2025-10-31T16:22:00.000Z"
+    },
+    {
+      "id": "recHhsaMiMmpbVQ63",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "Stockpile & HEC tools",
+      "Organizer/Chair": "Co-hosted by the Governments of Angola, Ethiopia, Malawi and Nigeria with the EPI Foundation",
+      "Room ": "Markhor",
+      "start date": "27/11/2025",
+      "Start Time - sort": "2025-11-27T16:15:00.000Z",
+      "End": "18:45",
+      "Start": "17:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "27/11/2025",
+      "Start time - Panamanian Time": "17:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recI3Nyf9ZEgZm13p",
+      "createdTime": "2025-10-29T14:20:41.000Z",
+      "Title": "Addressing human -wildlife conflicts and risks of trade in endangered species through restoration of ecosystems and implementation of Nature-based solutions. ",
+      "Organizer/Chair": "Ministry of Ecology, Environmental Protection and Climate Change Ministry of Agriculture FAO-Uzbekistan ICARDA-CAC IUCN",
+      "Room ": "Press Room",
+      "start date": "3/12/2025",
+      "Start Time - sort": "2025-12-03T18:00:00.000Z",
+      "End": "18:00",
+      "Start": "19:00",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "3/12/2025",
+      "Start time - Panamanian Time": "19:00",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recIBmHOsPks2mqoo",
+      "createdTime": "2025-10-07T15:22:45.000Z",
+      "Title": "Forensics: a CITES tool",
+      "Organizer/Chair": "CITES / ICCWC",
+      "Room ": "Bukhara Deer",
+      "start date": "28/11/2025",
+      "Start Time - sort": "2025-11-28T11:15:00.000Z",
+      "End": "13:45",
+      "Start": "12:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "28/11/2025",
+      "Start time - Panamanian Time": "12:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recImr5DPZzFNHceZ",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "United for Big Cats",
+      "Organizer/Chair": "Go Insight, co-hosted with the International Big Cat Alliance and the South Asian Wildlife Enforcement Network ",
+      "Room ": "Bukhara Deer",
+      "start date": "4/12/2025",
+      "Start Time - sort": "2025-12-04T18:00:00.000Z",
+      "End": "20:30",
+      "Start": "19:00",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "4/12/2025",
+      "Start time - Panamanian Time": "19:00",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recJHW5DHul32QgNa",
+      "createdTime": "2025-10-31T15:29:56.000Z",
+      "Title": "WG on Pangolins TEST",
+      "Organizer/Chair": "CITES Sec.",
+      "Room ": "Manul",
+      "start date": "26/11/2025",
+      "Start Time - sort": "2025-11-26T15:30:00.000Z",
+      "End": "17:00",
+      "Description of the side event": "This is a TEST description This is a TEST description This is a TEST description This is a TEST description This is a TEST description This is a TEST description This is a TEST description This is a TEST description This is a TEST description This is a TEST description This is a TEST description ",
+      "Start": "16:30",
+      "Type": [
+        "WG"
+      ],
+      "Start date - Panamanian date": "26/11/2025",
+      "Start time - Panamanian Time": "16:30",
+      "Last Modified": "2025-10-31T15:32:02.000Z"
+    },
+    {
+      "id": "recJQXlxyU8q1I7FE",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "Siem Reap Declaration",
+      "Organizer/Chair": "IUCN. The event is being co-hosted by elephant range states, IUCN secretariat, SSC Asian Elephant Specialist Group, IUCN Commission and international NGOs",
+      "Room ": "C. Asian Tortoise",
+      "start date": "3/12/2025",
+      "Start Time - sort": "2025-12-03T11:15:00.000Z",
+      "End": "13:45",
+      "Start": "12:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "3/12/2025",
+      "Start time - Panamanian Time": "12:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recJkObUxNA1nJJjM",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "Inter-WENs cooperation",
+      "Organizer/Chair": "South Asia Wildlife Enforcement Network (SAWEN) with LATF and DNPWC, Nepal",
+      "Room ": "Saiga",
+      "start date": "4/12/2025",
+      "Start Time - sort": "2025-12-04T16:15:00.000Z",
+      "End": "18:45",
+      "Start": "17:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "4/12/2025",
+      "Start time - Panamanian Time": "17:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recJzGxpPAYBSftef",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "GWP: CITES synergies",
+      "Organizer/Chair": "World Bank as lead agency of Global Wildlife Program. GWP is funded by the GEF with partners, UNDP, UNEP, ADB, IUCN, WWF, CI, TRAFFIC, CITES Secretariat, CMS Secretariat, WCS, TRAFFIC and WildAid. ",
+      "Room ": "Eulophia Dabia",
+      "start date": "24/11/2025",
+      "Start Time - sort": "2025-11-24T11:15:00.000Z",
+      "End": "13:45",
+      "Start": "12:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "24/11/2025",
+      "Start time - Panamanian Time": "12:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recKbF485FQnwvboN",
+      "createdTime": "2025-10-31T16:07:46.000Z",
+      "Title": "Committee I",
+      "Room ": "Com I",
+      "start date": "27/11/2025",
+      "Start Time - sort": "2025-11-27T13:00:00.000Z",
+      "End": "17:00",
+      "Start": "14:00",
+      "Type": [
+        "Main mtg"
+      ],
+      "Start date - Panamanian date": "27/11/2025",
+      "Start time - Panamanian Time": "14:00",
+      "Last Modified": "2025-10-31T16:21:20.000Z"
+    },
+    {
+      "id": "recKvMmu5pCJNnnWT",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "CAR-WEN Initiative",
+      "Organizer/Chair": "Sustainable Innovation Initiatives (SII), co-hosted with the Caribbean Wildlife Enforcement Network (CAR-WEN) Working Group with 20+ participating Caribbean governments",
+      "Room ": "Saker Falcon",
+      "start date": "5/12/2025",
+      "Start Time - sort": "2025-12-05T11:15:00.000Z",
+      "End": "13:45",
+      "Start": "12:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "5/12/2025",
+      "Start time - Panamanian Time": "12:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recLvrOJGPAet7dNm",
+      "createdTime": "2025-10-31T16:07:17.000Z",
+      "Title": "Committee II",
+      "Room ": "Com II",
+      "start date": "26/11/2025",
+      "Start Time - sort": "2025-11-26T13:00:00.000Z",
+      "End": "17:00",
+      "Start": "14:00",
+      "Type": [
+        "Main mtg"
+      ],
+      "Start date - Panamanian date": "26/11/2025",
+      "Start time - Panamanian Time": "14:00",
+      "Last Modified": "2025-10-31T16:21:54.000Z"
+    },
+    {
+      "id": "recLxR7RxJOyJ4UTw",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "Habitat Quality @ CITES",
+      "Organizer/Chair": "Ministry of Marine Affairs and Fisheries Republic of Indonesia",
+      "Room ": "C. Asian Tortoise",
+      "start date": "5/12/2025",
+      "Start Time - sort": "2025-12-05T11:15:00.000Z",
+      "End": "13:45",
+      "Start": "12:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "5/12/2025",
+      "Start time - Panamanian Time": "12:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recLz0oxiNtCYgwmU",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "Side Event 1",
+      "Organizer/Chair": "CITES / ICCWC",
+      "Room ": "Bukhara Deer",
+      "start date": "27/11/2025",
+      "Start Time - sort": "2025-11-27T11:15:00.000Z",
+      "End": "13:45",
+      "Start": "12:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "27/11/2025",
+      "Start time - Panamanian Time": "12:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recMHqVtSk9oeSW2N",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "Fighting Wildlife Trade",
+      "Organizer/Chair": "Costa Rica and Humane World for Animals",
+      "Room ": "Black Stork",
+      "start date": "29/11/2025",
+      "Start Time - sort": "2025-11-29T11:15:00.000Z",
+      "End": "13:45",
+      "Start": "12:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "29/11/2025",
+      "Start time - Panamanian Time": "12:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recMQeMthHOZA1Tzc",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "Leopard: Forgotten Cats",
+      "Organizer/Chair": "Environmental Investigation Agency co-hosted\n with Panthera",
+      "Room ": "Great Bustard",
+      "start date": "24/11/2025",
+      "Start Time - sort": "2025-11-24T11:15:00.000Z",
+      "End": "13:45",
+      "Start": "12:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "24/11/2025",
+      "Start time - Panamanian Time": "12:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recN3zfilyL2PuBtw",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "Wildlife Confiscation\nNew Title: Strengthening Capacity for Widlife Confiscations: Tools, Training, and Field Experience",
+      "Organizer/Chair": "International Fund for Animal Welfare (IFAW) and co-hosting countries TBC (Congo, Uganda, Brazil)",
+      "Room ": "Saker Falcon",
+      "start date": "28/11/2025",
+      "Start Time - sort": "2025-11-28T16:15:00.000Z",
+      "End": "18:45",
+      "Start": "17:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "28/11/2025",
+      "Start time - Panamanian Time": "17:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recNGoqLpFaglXnd0",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "CITES and Forest",
+      "Organizer/Chair": "CITES Secretariat ",
+      "Room ": "Markhor",
+      "start date": "25/11/2025",
+      "Start Time - sort": "2025-11-25T11:15:00.000Z",
+      "End": "13:45",
+      "Start": "12:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "25/11/2025",
+      "Start time - Panamanian Time": "12:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recNzF75twYXkYy8o",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "Stronger Together",
+      "Organizer/Chair": "Convention on Migratory Species ",
+      "Room ": "Saker Falcon",
+      "start date": "25/11/2025",
+      "Start Time - sort": "2025-11-25T11:15:00.000Z",
+      "End": "13:45",
+      "Start": "12:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "25/11/2025",
+      "Start time - Panamanian Time": "12:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recO2i5gerhgZXAdP",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "Sea Cucumber Trade",
+      "Organizer/Chair": "Center for Biological Diversity",
+      "Room ": "Manul",
+      "start date": "25/11/2025",
+      "Start Time - sort": "2025-11-25T11:15:00.000Z",
+      "End": "13:45",
+      "Start": "12:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "25/11/2025",
+      "Start time - Panamanian Time": "12:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recObqdsshuwdOXjv",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "Enforcement in action",
+      "Organizer/Chair": "Wildlife Justice Commission. Event co-hosted by Nigeria.",
+      "Room ": "Markhor",
+      "start date": "29/11/2025",
+      "Start Time - sort": "2025-11-29T18:00:00.000Z",
+      "End": "20:30",
+      "Start": "19:00",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "29/11/2025",
+      "Start time - Panamanian Time": "19:00",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recOfE0sWPW7eZbow",
+      "createdTime": "2025-10-31T16:04:52.000Z",
+      "Title": "Committee I",
+      "Room ": "Com I",
+      "start date": "25/11/2025",
+      "Start Time - sort": "2025-11-25T13:00:00.000Z",
+      "End": "17:00",
+      "Start": "14:00",
+      "Type": [
+        "Main mtg"
+      ],
+      "Start date - Panamanian date": "25/11/2025",
+      "Start time - Panamanian Time": "14:00",
+      "Last Modified": "2025-10-31T16:21:12.000Z"
+    },
+    {
+      "id": "recP4YgHTGiQHRZTF",
+      "createdTime": "2025-10-31T16:07:17.000Z",
+      "Title": "Committee II",
+      "Room ": "Com II",
+      "start date": "26/11/2025",
+      "Start Time - sort": "2025-11-26T08:00:00.000Z",
+      "End": "12:00",
+      "Start": "09:00",
+      "Type": [
+        "Main mtg"
+      ],
+      "Start date - Panamanian date": "26/11/2025",
+      "Start time - Panamanian Time": "09:00",
+      "Last Modified": "2025-10-31T16:21:53.000Z"
+    },
+    {
+      "id": "recPDohyyoTyrcT3G",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "EPI Members meeting",
+      "Organizer/Chair": "Co-hosted by the Governments of Angola, Ethiopia, Malawi and Nigeria with the EPI Foundation",
+      "Room ": "C. Asian Tortoise",
+      "start date": "25/11/2025",
+      "Start Time - sort": "2025-11-25T11:15:00.000Z",
+      "End": "13:45",
+      "Start": "12:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "25/11/2025",
+      "Start time - Panamanian Time": "12:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recPIp7jQgDhA8pDj",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "Catalyzing ecosystem restoriation in Uzbekistan: launch of the GEF-8 ERIP Project",
+      "Organizer/Chair": "Ministry of Ecology, Environmental Protection and Climate Change of the Republic of Uzbekistan, GEF, IUCN, UNDP.",
+      "Room ": "Press Room",
+      "start date": "24/11/2025",
+      "Start Time - sort": "2025-11-24T11:30:00.000Z",
+      "End": "14:00",
+      "Start": "12:30",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "24/11/2025",
+      "Start time - Panamanian Time": "12:30",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recPdO62akXjLptVR",
+      "createdTime": "2025-10-31T16:09:36.000Z",
+      "Title": "Committee II",
+      "Room ": "Com II",
+      "start date": "2/12/2025",
+      "Start Time - sort": "2025-12-02T13:00:00.000Z",
+      "End": "17:00",
+      "Start": "14:00",
+      "Type": [
+        "Main mtg"
+      ],
+      "Start date - Panamanian date": "2/12/2025",
+      "Start time - Panamanian Time": "14:00",
+      "Last Modified": "2025-10-31T16:22:02.000Z"
+    },
+    {
+      "id": "recQK3iGxRtYaLxke",
+      "createdTime": "2025-10-31T16:09:36.000Z",
+      "Title": "Committee II",
+      "Room ": "Com II",
+      "start date": "2/12/2025",
+      "Start Time - sort": "2025-12-02T08:00:00.000Z",
+      "End": "12:00",
+      "Start": "09:00",
+      "Type": [
+        "Main mtg"
+      ],
+      "Start date - Panamanian date": "2/12/2025",
+      "Start time - Panamanian Time": "09:00",
+      "Last Modified": "2025-10-31T16:22:01.000Z"
+    },
+    {
+      "id": "recQWpUA6Ol0Q9rj9",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "Silk Road's small cats",
+      "Organizer/Chair": "CO-HOSTS: The Pallas's cat International Conservation Alliance (PICA) / The Ministry of Ecology, Environmental Protection & Climate Change, Uzbekistan / Institute of Zoology, Academy of Sciences, Uzbekistan / Conservation X labs",
+      "Room ": "Saker Falcon",
+      "start date": "2/12/2025",
+      "Start Time - sort": "2025-12-02T16:15:00.000Z",
+      "End": "18:45",
+      "Start": "17:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "2/12/2025",
+      "Start time - Panamanian Time": "17:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recQiL809zjsHz0Lt",
+      "createdTime": "2025-10-31T16:06:15.000Z",
+      "Title": "Committee II",
+      "Room ": "Com II",
+      "start date": "25/11/2025",
+      "Start Time - sort": "2025-11-25T08:00:00.000Z",
+      "End": "12:00",
+      "Start": "09:00",
+      "Type": [
+        "Main mtg"
+      ],
+      "Start date - Panamanian date": "25/11/2025",
+      "Start time - Panamanian Time": "09:00",
+      "Last Modified": "2025-10-31T16:21:50.000Z"
+    },
+    {
+      "id": "recRb2lduEYfFJITv",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "Illicit Yet Legal Trade",
+      "Organizer/Chair": "Pro Wildlife (co-hosted by IFAW, WCS, Four Paws & Humane World for Animals)",
+      "Room ": "Saiga",
+      "start date": "26/11/2025",
+      "Start Time - sort": "2025-11-26T18:00:00.000Z",
+      "End": "20:30",
+      "Start": "19:00",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "26/11/2025",
+      "Start time - Panamanian Time": "19:00",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recRj8zGZl4Ho0p1f",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "CITES: Legal Loopholes\nNew title: An Illusion of Legality: Wildlife Laundering in International Trade",
+      "Organizer/Chair": "Royal United Services Institute, co-hosted with TRAFFIC",
+      "Room ": "Saker Falcon",
+      "start date": "28/11/2025",
+      "Start Time - sort": "2025-11-28T11:15:00.000Z",
+      "End": "13:45",
+      "Start": "12:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "28/11/2025",
+      "Start time - Panamanian Time": "12:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recRl2CtZtc0z2Ydv",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "BBNJ Agreement & CITES",
+      "Organizer/Chair": "Co-hosted by the CITES Secretariat and the Division for Ocean Affairs and the Law of the Sea (DOALOS) of the Office of Legal Affairs of the United Nations and the CITES Secretariat",
+      "Room ": "Bukhara Deer",
+      "start date": "28/11/2025",
+      "Start Time - sort": "2025-11-28T18:00:00.000Z",
+      "End": "20:30",
+      "Start": "19:00",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "28/11/2025",
+      "Start time - Panamanian Time": "19:00",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recTGnqcOH2HsID3J",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "Commiphora wightii",
+      "Organizer/Chair": "Germany ",
+      "Room ": "Black Stork",
+      "start date": "25/11/2025",
+      "Start Time - sort": "2025-11-25T11:15:00.000Z",
+      "End": "13:45",
+      "Start": "12:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "25/11/2025",
+      "Start time - Panamanian Time": "12:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recTLqe9AaITlmleA",
+      "createdTime": "2025-10-31T16:09:15.000Z",
+      "Title": "Committee I",
+      "Room ": "Com I",
+      "start date": "29/11/2025",
+      "Start Time - sort": "2025-11-29T13:00:00.000Z",
+      "End": "17:00",
+      "Start": "14:00",
+      "Type": [
+        "Main mtg"
+      ],
+      "Start date - Panamanian date": "29/11/2025",
+      "Start time - Panamanian Time": "14:00",
+      "Last Modified": "2025-10-31T16:21:31.000Z"
+    },
+    {
+      "id": "recTR1m5baJq4ckTD",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "Illegal Sloth Trade LA",
+      "Organizer/Chair": "Costa Rica- Brazil – Panama - Peru with support of Species Survival Network, Humane World for Animals, and IFAW (Event is co-hosted)",
+      "Room ": "Markhor",
+      "start date": "3/12/2025",
+      "Start Time - sort": "2025-12-03T16:15:00.000Z",
+      "End": "18:45",
+      "Start": "17:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "3/12/2025",
+      "Start time - Panamanian Time": "17:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recTSihoelQvp45K4",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "Saiga: new challenges",
+      "Organizer/Chair": "The Ministry of Ecology and Natural Resources of the Republic of Kazakhstan and the Ministry of ecology, environmental protection and climate change of the Republic of Uzbekistan",
+      "Room ": "Great Bustard",
+      "start date": "29/11/2025",
+      "Start Time - sort": "2025-11-29T16:15:00.000Z",
+      "End": "18:45",
+      "Start": "17:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "29/11/2025",
+      "Start time - Panamanian Time": "17:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recTxhZp8XbdJeGea",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "SSN/Bavin Awards Event",
+      "Organizer/Chair": "Species Survival Network",
+      "Room ": "Saiga",
+      "start date": "2/12/2025",
+      "Start Time - sort": "2025-12-02T16:15:00.000Z",
+      "End": "18:45",
+      "Start": "17:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "2/12/2025",
+      "Start time - Panamanian Time": "17:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recUDssZSmdYJ76p3",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "Central Asia Pet Trade ",
+      "Organizer/Chair": "TRAFFIC International ",
+      "Room ": "Bukhara Deer",
+      "start date": "4/12/2025",
+      "Start Time - sort": "2025-12-04T16:15:00.000Z",
+      "End": "18:45",
+      "Start": "17:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "4/12/2025",
+      "Start time - Panamanian Time": "17:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recUPA7iCNYmzzJNo",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "Tech for Wildlife",
+      "Organizer/Chair": "Conservation X Labs and Turkmenistan ",
+      "Room ": "Markhor",
+      "start date": "24/11/2025",
+      "Start Time - sort": "2025-11-24T11:15:00.000Z",
+      "End": "13:45",
+      "Start": "12:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "24/11/2025",
+      "Start time - Panamanian Time": "12:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recUpVkj5QGb9a31S",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "Confiscation Networks",
+      "Organizer/Chair": "Association of Zoos and Aquariums",
+      "Room ": "Saker Falcon",
+      "start date": "26/11/2025",
+      "Start Time - sort": "2025-11-26T18:00:00.000Z",
+      "End": "20:30",
+      "Start": "19:00",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "26/11/2025",
+      "Start time - Panamanian Time": "19:00",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recVWDG5Glg2Rj1Ro",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "Coalition Sharks & Rays\nNew short: Deepwater Sharks & Rays\nLonger: Deepwater Sharks, Rays and Chimaeras: the need for Trade, Conservation and Management Attention",
+      "Organizer/Chair": "TRAFFIC with co-hosts",
+      "Room ": "Markhor",
+      "start date": "4/12/2025",
+      "Start Time - sort": "2025-12-04T18:00:00.000Z",
+      "End": "20:30",
+      "Start": "19:00",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "4/12/2025",
+      "Start time - Panamanian Time": "19:00",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recWLSe4v3SWuFvAX",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "Nigeria's ESA Bill",
+      "Organizer/Chair": "Co-hosted: Government of Nigeria and Environmental Investigation Agency UK",
+      "Room ": "Black Stork",
+      "start date": "24/11/2025",
+      "Start Time - sort": "2025-11-24T11:15:00.000Z",
+      "End": "13:45",
+      "Start": "12:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "24/11/2025",
+      "Start time - Panamanian Time": "12:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recWaj63HXyJxbHsI",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "What works to stop IWT?",
+      "Organizer/Chair": "UNODC",
+      "Room ": "Saker Falcon",
+      "start date": "27/11/2025",
+      "Start Time - sort": "2025-11-27T18:00:00.000Z",
+      "End": "20:30",
+      "Start": "19:00",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "27/11/2025",
+      "Start time - Panamanian Time": "19:00",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recXxrBkssp9jPZOZ",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "eCITES Permit System",
+      "Organizer/Chair": "CITES Secretariat",
+      "Room ": "Saiga",
+      "start date": "3/12/2025",
+      "Start Time - sort": "2025-12-03T16:15:00.000Z",
+      "End": "18:45",
+      "Start": "17:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "3/12/2025",
+      "Start time - Panamanian Time": "17:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recY2mBm0r6SVGaMb",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "Sharks Protection Cop20",
+      "Organizer/Chair": "Panama ",
+      "Room ": "Bukhara Deer",
+      "start date": "25/11/2025",
+      "Start Time - sort": "2025-11-25T11:15:00.000Z",
+      "End": "13:45",
+      "Start": "12:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "25/11/2025",
+      "Start time - Panamanian Time": "12:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recY66wbsZczCsar6",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "NDF Guidance",
+      "Organizer/Chair": "CITES Secretariat",
+      "Room ": "Markhor",
+      "start date": "26/11/2025",
+      "Start Time - sort": "2025-11-26T18:00:00.000Z",
+      "End": "20:30",
+      "Start": "19:00",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "26/11/2025",
+      "Start time - Panamanian Time": "19:00",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recYxAZCdYGarlpK2",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "LAF",
+      "Organizer/Chair": "CITES Secretariat and FAO",
+      "Room ": "Markhor",
+      "start date": "26/11/2025",
+      "Start Time - sort": "2025-11-26T16:15:00.000Z",
+      "End": "18:45",
+      "Start": "17:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "26/11/2025",
+      "Start time - Panamanian Time": "17:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recZ5GCag2OQ4y91O",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "IUCN Red List and CITES",
+      "Organizer/Chair": "IUCN  ",
+      "Room ": "Markhor",
+      "start date": "2/12/2025",
+      "Start Time - sort": "2025-12-02T11:15:00.000Z",
+      "End": "13:45",
+      "Start": "12:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "2/12/2025",
+      "Start time - Panamanian Time": "12:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recZDUGmiVB9oa2Zq",
+      "createdTime": "2025-10-29T14:20:41.000Z",
+      "Title": "Presentation of Ramsar National Strategy of Uzbekistan The importance of Ramsar sites for biodiversity and migratory species",
+      "Organizer/Chair": "GIZ-Uzbekistan Ministry of Ecology, Environmental Protection and Climate Change of the Republic of Uzbekistan Michael Succow Foundation (MSF)",
+      "Room ": "Press Room",
+      "start date": "25/11/2025",
+      "Start Time - sort": "2025-11-25T17:00:00.000Z",
+      "End": "19:00",
+      "Start": "18:00",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "25/11/2025",
+      "Start time - Panamanian Time": "18:00",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recZMfQWwTmJhArjK",
+      "createdTime": "2025-10-31T16:09:15.000Z",
+      "Title": "Committee II",
+      "Room ": "Com II",
+      "start date": "29/11/2025",
+      "Start Time - sort": "2025-11-29T08:00:00.000Z",
+      "End": "12:00",
+      "Start": "09:00",
+      "Type": [
+        "Main mtg"
+      ],
+      "Start date - Panamanian date": "29/11/2025",
+      "Start time - Panamanian Time": "09:00",
+      "Last Modified": "2025-10-31T16:21:59.000Z"
+    },
+    {
+      "id": "recZQhsl50xVWRPCb",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "United for Hammerheads!",
+      "Organizer/Chair": "SHARKPROJECT International. Cohosted with Marine Watch International.",
+      "Room ": "Bukhara Deer",
+      "start date": "2/12/2025",
+      "Start Time - sort": "2025-12-02T16:15:00.000Z",
+      "End": "18:45",
+      "Start": "17:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "2/12/2025",
+      "Start time - Panamanian Time": "17:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recZqcRkg9sakfDau",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "FAO Aquatic Proposals\nNew Title: The Challenge of Defining \"Ruin\" versus \"Risk\" in Marine Species: Party proponents, FAO Expert Panel & Fishers talk to CoP20 Assessments on Shark, Eel, Sea Cucumbers & Shellfish",
+      "Organizer/Chair": "UN FAO",
+      "Room ": "Bukhara Deer",
+      "start date": "26/11/2025",
+      "Start Time - sort": "2025-11-26T16:15:00.000Z",
+      "End": "18:45",
+      "Start": "17:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "26/11/2025",
+      "Start time - Panamanian Time": "17:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "reca5nBErLMv99Jj8",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "Cheetah's in India",
+      "Organizer/Chair": "India",
+      "Room ": "Bukhara Deer",
+      "start date": "3/12/2025",
+      "Start Time - sort": "2025-12-03T11:15:00.000Z",
+      "End": "13:45",
+      "Start": "12:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "3/12/2025",
+      "Start time - Panamanian Time": "12:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "reca7fEwXialVCTJl",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "Side Event 2 ",
+      "Organizer/Chair": "CITES / ICCWC",
+      "Room ": "Bukhara Deer",
+      "start date": "26/11/2025",
+      "Start Time - sort": "2025-11-26T11:15:00.000Z",
+      "End": "13:45",
+      "Start": "12:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "26/11/2025",
+      "Start time - Panamanian Time": "12:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recaPwMMtcdxhIklo",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "Trade in frogs’ legs",
+      "Organizer/Chair": "Pro Wildlife",
+      "Room ": "Markhor",
+      "start date": "28/11/2025",
+      "Start Time - sort": "2025-11-28T11:15:00.000Z",
+      "End": "13:45",
+      "Start": "12:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "28/11/2025",
+      "Start time - Panamanian Time": "12:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recahl1rb4CA2w9t5",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "Global Songbird Crisis",
+      "Organizer/Chair": "Sustainable Innovation Initiatives (SII) and co-hosts, including the IUCN SSC ASTSG, EAZA, BirdLife International, Monitor, Creative Conservation Lab, and the newly forming Neotropical Songbirds Collaborative Group. ",
+      "Room ": "Saker Falcon",
+      "start date": "2/12/2025",
+      "Start Time - sort": "2025-12-02T18:00:00.000Z",
+      "End": "20:30",
+      "Start": "19:00",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "2/12/2025",
+      "Start time - Panamanian Time": "19:00",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recb9y5L9YWjRxVFI",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "Scales of Success",
+      "Organizer/Chair": "Louisiana Alligator Advisory Council ",
+      "Room ": "Markhor",
+      "start date": "2/12/2025",
+      "Start Time - sort": "2025-12-02T16:15:00.000Z",
+      "End": "18:45",
+      "Start": "17:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "2/12/2025",
+      "Start time - Panamanian Time": "17:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recbODSd4YInvscAG",
+      "createdTime": "2025-10-29T14:20:41.000Z",
+      "Title": "Biodiversity degradation in Uzbekistan under climate change and the unsustainable use of ecosystem resources to secure environmental and national security of the region",
+      "Organizer/Chair": "Research Institute of Environmental and Nature Conservation Technologies under the Ministry of Ecology, Environmental Protection and Climate Change",
+      "Room ": "C. Asian Tortoise",
+      "start date": "28/11/2025",
+      "Start Time - sort": "2025-11-28T11:15:00.000Z",
+      "End": "13:45",
+      "Start": "12:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "28/11/2025",
+      "Start time - Panamanian Time": "12:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recbdhfhBbMEyw0yg",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "Asian big cats & CITES",
+      "Organizer/Chair": "Born Free Foundation, co-hosted with Go Insight, WWF, TRAFFIC, EIA, Panthera, WCS and possibly others",
+      "Room ": "C. Asian Tortoise",
+      "start date": "26/11/2025",
+      "Start Time - sort": "2025-11-26T18:00:00.000Z",
+      "End": "20:30",
+      "Start": "19:00",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "26/11/2025",
+      "Start time - Panamanian Time": "19:00",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recc0VkUXj9CQnRky",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "Whale sharks & friends",
+      "Organizer/Chair": "Maldives",
+      "Room ": "Bukhara Deer",
+      "start date": "28/11/2025",
+      "Start Time - sort": "2025-11-28T16:15:00.000Z",
+      "End": "18:45",
+      "Start": "17:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "28/11/2025",
+      "Start time - Panamanian Time": "17:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "reccMY6CARn3diKO9",
+      "createdTime": "2025-10-31T16:07:46.000Z",
+      "Title": "Committee II",
+      "Room ": "Com II",
+      "start date": "27/11/2025",
+      "Start Time - sort": "2025-11-27T08:00:00.000Z",
+      "End": "12:00",
+      "Start": "09:00",
+      "Type": [
+        "Main mtg"
+      ],
+      "Start date - Panamanian date": "27/11/2025",
+      "Start time - Panamanian Time": "09:00",
+      "Last Modified": "2025-10-31T16:21:55.000Z"
+    },
+    {
+      "id": "reccXmsY8czzATRrg",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "Global Action for seahorses\nLonger title: Progress in and tools for implementing CITES for seahorses. ",
+      "Organizer/Chair": "IUCN (International Union for Conservation of Nature) - Seahorse, Pipefish & Seadragon Specialist Group",
+      "Room ": "Bukhara Deer",
+      "start date": "29/11/2025",
+      "Start Time - sort": "2025-11-29T18:00:00.000Z",
+      "End": "20:30",
+      "Start": "19:00",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "29/11/2025",
+      "Start time - Panamanian Time": "19:00",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recdQ4LqwkhOHo09S",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "Tarántulas en Ap. II ",
+      "Organizer/Chair": "Argentina, Bolivia, Panamá, AWI y SSN",
+      "Room ": "Saker Falcon",
+      "start date": "3/12/2025",
+      "Start Time - sort": "2025-12-03T11:15:00.000Z",
+      "End": "13:45",
+      "Start": "12:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "3/12/2025",
+      "Start time - Panamanian Time": "12:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recdTdbEfBZxeM1ud",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "CITES and Local Voices",
+      "Organizer/Chair": "BirdLife International, in collaboration with the governments of Indonesia and the Philippines, and Mandai Nature",
+      "Room ": "C. Asian Tortoise",
+      "start date": "29/11/2025",
+      "Start Time - sort": "2025-11-29T16:15:00.000Z",
+      "End": "18:45",
+      "Start": "17:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "29/11/2025",
+      "Start time - Panamanian Time": "17:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recdh7Tw9dEF0BJT8",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "CITES & une seule santé ",
+      "Organizer/Chair": "Sénégal",
+      "Room ": "Saker Falcon",
+      "start date": "24/11/2025",
+      "Start Time - sort": "2025-11-24T11:15:00.000Z",
+      "End": "13:45",
+      "Start": "12:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "24/11/2025",
+      "Start time - Panamanian Time": "12:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "receE2eRpD0YCgTg6",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "DEFENDERS OF THE HIDDEN",
+      "Organizer/Chair": "China Wildlife Conservation Association, WildAid",
+      "Room ": "Markhor",
+      "start date": "28/11/2025",
+      "Start Time - sort": "2025-11-28T16:15:00.000Z",
+      "End": "18:45",
+      "Start": "17:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "28/11/2025",
+      "Start time - Panamanian Time": "17:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recfpZS036r0Vh7Vl",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "Hunting trophies policy",
+      "Organizer/Chair": "IUCN Sustainable Use and Livelihoods Specialist Group",
+      "Room ": "Bukhara Deer",
+      "start date": "27/11/2025",
+      "Start Time - sort": "2025-11-27T18:00:00.000Z",
+      "End": "20:30",
+      "Start": "19:00",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "27/11/2025",
+      "Start time - Panamanian Time": "19:00",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recgPaG4HM2CsOL4Z",
+      "createdTime": "2025-10-31T16:09:11.000Z",
+      "Title": "Committee I",
+      "Room ": "Com I",
+      "start date": "29/11/2025",
+      "Start Time - sort": "2025-11-29T08:00:00.000Z",
+      "End": "12:00",
+      "Start": "09:00",
+      "Type": [
+        "Main mtg"
+      ],
+      "Start date - Panamanian date": "29/11/2025",
+      "Start time - Panamanian Time": "09:00",
+      "Last Modified": "2025-10-31T16:21:30.000Z"
+    },
+    {
+      "id": "recgPtneMKWbe0tOr",
+      "createdTime": "2025-10-31T16:07:41.000Z",
+      "Title": "Committee I",
+      "Room ": "Com I",
+      "start date": "27/11/2025",
+      "Start Time - sort": "2025-11-27T08:00:00.000Z",
+      "End": "12:00",
+      "Start": "09:00",
+      "Type": [
+        "Main mtg"
+      ],
+      "Start date - Panamanian date": "27/11/2025",
+      "Start time - Panamanian Time": "09:00",
+      "Last Modified": "2025-10-31T16:21:19.000Z"
+    },
+    {
+      "id": "rech4T98PxglyOyLE",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "Saiga Evidence Gaps\nNew Title: Evidence gaps in wildlife supply chains: a case study of the saiga antelope",
+      "Organizer/Chair": "Saiga Conservation Alliance",
+      "Room ": "Saiga",
+      "start date": "3/12/2025",
+      "Start Time - sort": "2025-12-03T11:15:00.000Z",
+      "End": "13:45",
+      "Start": "12:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "3/12/2025",
+      "Start time - Panamanian Time": "12:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "rechf9bfvrNq0OqEu",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "Sustainable Use of CEAS",
+      "Organizer/Chair": "Southeast Asian Fisheries Development Center",
+      "Room ": "C. Asian Tortoise",
+      "start date": "24/11/2025",
+      "Start Time - sort": "2025-11-24T11:15:00.000Z",
+      "End": "13:45",
+      "Start": "12:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "24/11/2025",
+      "Start time - Panamanian Time": "12:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "rechtgOsejRF5jKLt",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "CGYN",
+      "Organizer/Chair": "Singapore",
+      "Room ": "C. Asian Tortoise",
+      "start date": "27/11/2025",
+      "Start Time - sort": "2025-11-27T11:15:00.000Z",
+      "End": "13:45",
+      "Start": "12:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "27/11/2025",
+      "Start time - Panamanian Time": "12:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "rechv3WKiqzJmjxuu",
+      "createdTime": "2025-10-29T14:20:31.000Z",
+      "Title": "KHA - Key Herpetological Areas. A new international conservation initiative",
+      "Organizer/Chair": "Ministry of Ecology, Environmental Protection and Climate Change of the Republic of Uzbekistan Institute of Zoology of the Academy of Sciences of the Republic of Uzbekistan",
+      "Room ": "Press Room",
+      "start date": "26/11/2025",
+      "Start Time - sort": "2025-11-26T16:00:00.000Z",
+      "End": "18:30",
+      "Start": "17:00",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "26/11/2025",
+      "Start time - Panamanian Time": "17:00",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "reci2H9JfEyycF0Wg",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "AEAP Delivery: MIKE/AEF",
+      "Organizer/Chair": "CITES Secretariat",
+      "Room ": "Saker Falcon",
+      "start date": "2/12/2025",
+      "Start Time - sort": "2025-12-02T11:15:00.000Z",
+      "End": "13:45",
+      "Start": "12:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "2/12/2025",
+      "Start time - Panamanian Time": "12:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "reciQOJ8BgPwOKjNo",
+      "createdTime": "2025-10-31T16:07:17.000Z",
+      "Title": "Committee I",
+      "Room ": "Com I",
+      "start date": "26/11/2025",
+      "Start Time - sort": "2025-11-26T13:00:00.000Z",
+      "End": "17:00",
+      "Start": "14:00",
+      "Type": [
+        "Main mtg"
+      ],
+      "Start date - Panamanian date": "26/11/2025",
+      "Start time - Panamanian Time": "14:00",
+      "Last Modified": "2025-10-31T16:21:15.000Z"
+    },
+    {
+      "id": "recjGiKVw3dTcf6om",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "African hornbills",
+      "Organizer/Chair": "Nigeria.   Co-host: IUCN SSC HSG, Mabula Ground Hornbill Project MGHP, AZA. African Hornbill SAFE Programme, EAZA, Monitor Conservation Research Society (Monitor), WCS, World Association of Zoos and Aquaria (WAZA), International Bird Conservation Partnership (IBCP)",
+      "Room ": "C. Asian Tortoise",
+      "start date": "2/12/2025",
+      "Start Time - sort": "2025-12-02T16:15:00.000Z",
+      "End": "18:45",
+      "Start": "17:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "2/12/2025",
+      "Start time - Panamanian Time": "17:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recjOik219MpwORdr",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "CITES' effectiveness",
+      "Organizer/Chair": "IUCN Sustainable Use and Livelihoods Specialist Group",
+      "Room ": "Bukhara Deer",
+      "start date": "29/11/2025",
+      "Start Time - sort": "2025-11-29T11:15:00.000Z",
+      "End": "13:45",
+      "Start": "12:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "29/11/2025",
+      "Start time - Panamanian Time": "12:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recjdhd3kjIcHiZpV",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "Streamlining CITES",
+      "Organizer/Chair": "The international Council for Game and Wildlife \nConservation (CIC)",
+      "Room ": "Bukhara Deer",
+      "start date": "29/11/2025",
+      "Start Time - sort": "2025-11-29T16:15:00.000Z",
+      "End": "18:45",
+      "Start": "17:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "29/11/2025",
+      "Start time - Panamanian Time": "17:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "reck4EtFrGNqlLavJ",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "Striped Hyena at Risk",
+      "Organizer/Chair": "Republic of Tajikistan and Republic of Uzbekistan and The Nature And Biodiversity Conservation Union  ",
+      "Room ": "Bukhara Deer",
+      "start date": "27/11/2025",
+      "Start Time - sort": "2025-11-27T16:15:00.000Z",
+      "End": "18:45",
+      "Start": "17:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "27/11/2025",
+      "Start time - Panamanian Time": "17:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "reclDOIJWI98pflFP",
+      "createdTime": "2025-10-31T16:08:42.000Z",
+      "Title": "Committee II",
+      "Room ": "Com II",
+      "start date": "28/11/2025",
+      "Start Time - sort": "2025-11-28T13:00:00.000Z",
+      "End": "17:00",
+      "Start": "14:00",
+      "Type": [
+        "Main mtg"
+      ],
+      "Start date - Panamanian date": "28/11/2025",
+      "Start time - Panamanian Time": "14:00",
+      "Last Modified": "2025-10-31T16:21:58.000Z"
+    },
+    {
+      "id": "reclaR3xfwISF4Hx9",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "CPW in Action & Beyond",
+      "Organizer/Chair": "Collaborative Partnership on Sustainable Wildlife Management (CPW) - Co-hosted by CPW Partner Organizations including FAO, CBD, CIFOR, CITES, CMS, CIC, IIED, IIFB, IUCN, IUFRO, TRAFFIC, UNEP, WOAH",
+      "Room ": "Saiga",
+      "start date": "28/11/2025",
+      "Start Time - sort": "2025-11-28T11:15:00.000Z",
+      "End": "13:45",
+      "Start": "12:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "28/11/2025",
+      "Start time - Panamanian Time": "12:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "reclfUVojhO5SCMKS",
+      "createdTime": "2025-10-31T16:10:17.000Z",
+      "Title": "Committee I",
+      "Room ": "Com I",
+      "start date": "3/12/2025",
+      "Start Time - sort": "2025-12-03T13:00:00.000Z",
+      "End": "17:00",
+      "Start": "14:00",
+      "Type": [
+        "Main mtg"
+      ],
+      "Start date - Panamanian date": "3/12/2025",
+      "Start time - Panamanian Time": "14:00",
+      "Last Modified": "2025-10-31T16:21:43.000Z"
+    },
+    {
+      "id": "recn1MMcaAYpcVFoz",
+      "createdTime": "2025-10-31T16:06:22.000Z",
+      "Title": "Committee II",
+      "Room ": "Com II",
+      "start date": "25/11/2025",
+      "Start Time - sort": "2025-11-25T13:00:00.000Z",
+      "End": "17:00",
+      "Start": "14:00",
+      "Type": [
+        "Main mtg"
+      ],
+      "Start date - Panamanian date": "25/11/2025",
+      "Start time - Panamanian Time": "14:00",
+      "Last Modified": "2025-10-31T16:21:52.000Z"
+    },
+    {
+      "id": "recnhwSHjnbRpCCzQ",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "Sustainable MAPs trade",
+      "Organizer/Chair": "TRAFFIC International. Event co-hosted with IUCN Medicinal Plant Specialist Group, UK CITES SA for Flora, Nepal CITES SA ",
+      "Room ": "Markhor",
+      "start date": "3/12/2025",
+      "Start Time - sort": "2025-12-03T11:15:00.000Z",
+      "End": "13:45",
+      "Start": "12:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "3/12/2025",
+      "Start time - Panamanian Time": "12:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recnoI9QP5HcGVsUM",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "Rethinking Trade Data\nSubtitle: Exploring Solutions to Strengthen Wildlife Trade Data",
+      "Organizer/Chair": "Animal Advocacy and Protection (AAP); co-hosts: Dominican Republic; Eurogroup for Animals (EfA); International Fund for Animal Welfare (IFAW); Fondation Franz Weber (FFW) ",
+      "Room ": "C. Asian Tortoise",
+      "start date": "27/11/2025",
+      "Start Time - sort": "2025-11-27T16:15:00.000Z",
+      "End": "18:45",
+      "Start": "17:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "27/11/2025",
+      "Start time - Panamanian Time": "17:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recobAJ22ETgkJ5L5",
+      "createdTime": "2025-10-31T16:08:42.000Z",
+      "Title": "Committee I",
+      "Room ": "Com I",
+      "start date": "28/11/2025",
+      "Start Time - sort": "2025-11-28T13:00:00.000Z",
+      "End": "17:00",
+      "Start": "14:00",
+      "Type": [
+        "Main mtg"
+      ],
+      "Start date - Panamanian date": "28/11/2025",
+      "Start time - Panamanian Time": "14:00",
+      "Last Modified": "2025-10-31T16:21:27.000Z"
+    },
+    {
+      "id": "recouRS016or51q8X",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "Pangolin Trade in China",
+      "Organizer/Chair": "Environmental Investigation Agency UK (EIA UK)",
+      "Room ": "Eulophia Dabia",
+      "start date": "25/11/2025",
+      "Start Time - sort": "2025-11-25T11:15:00.000Z",
+      "End": "13:45",
+      "Start": "12:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "25/11/2025",
+      "Start time - Panamanian Time": "12:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recpCQonbZjV0w8er",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "How to Conserve Rhinos",
+      "Organizer/Chair": "International Rhino Foundation. Save the Rhino \nInternational (co-host)",
+      "Room ": "Markhor",
+      "start date": "5/12/2025",
+      "Start Time - sort": "2025-12-05T11:15:00.000Z",
+      "End": "13:45",
+      "Start": "12:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "5/12/2025",
+      "Start time - Panamanian Time": "12:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recpOQPAvyuVPtfH3",
+      "createdTime": "2025-10-31T09:29:35.000Z",
+      "Title": "Plenary",
+      "Room ": "Com I",
+      "start date": "24/11/2025",
+      "Start Time - sort": "2025-11-24T08:00:00.000Z",
+      "End": "13:00",
+      "Start": "09:00",
+      "Type": [
+        "Main mtg"
+      ],
+      "Start date - Panamanian date": "24/11/2025",
+      "Start time - Panamanian Time": "09:00",
+      "Last Modified": "2025-10-31T16:20:59.000Z"
+    },
+    {
+      "id": "recpUmS65lKhFNIsv",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "Expanding CITES’ impact",
+      "Organizer/Chair": "Born Free Foundation",
+      "Room ": "Markhor",
+      "start date": "4/12/2025",
+      "Start Time - sort": "2025-12-04T11:15:00.000Z",
+      "End": "13:45",
+      "Start": "12:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "4/12/2025",
+      "Start time - Panamanian Time": "12:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recpYqPimBGJyB1K9",
+      "createdTime": "2025-10-31T16:10:17.000Z",
+      "Title": "Committee II",
+      "Room ": "Com II",
+      "start date": "3/12/2025",
+      "Start Time - sort": "2025-12-03T13:00:00.000Z",
+      "End": "17:00",
+      "Start": "14:00",
+      "Type": [
+        "Main mtg"
+      ],
+      "Start date - Panamanian date": "3/12/2025",
+      "Start time - Panamanian Time": "14:00",
+      "Last Modified": "2025-10-31T16:22:04.000Z"
+    },
+    {
+      "id": "recqDf9XqAXidbiWf",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "Building Economies ",
+      "Organizer/Chair": "The international Council for Game and Wildlife \nConservation (CIC)",
+      "Room ": "Bukhara Deer",
+      "start date": "2/12/2025",
+      "Start Time - sort": "2025-12-02T11:15:00.000Z",
+      "End": "13:45",
+      "Start": "12:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "2/12/2025",
+      "Start time - Panamanian Time": "12:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recqGuolPGiRHbF0f",
+      "createdTime": "2025-10-31T16:09:36.000Z",
+      "Title": "Committee I",
+      "Room ": "Com I",
+      "start date": "2/12/2025",
+      "Start Time - sort": "2025-12-02T13:00:00.000Z",
+      "End": "17:00",
+      "Start": "14:00",
+      "Type": [
+        "Main mtg"
+      ],
+      "Start date - Panamanian date": "2/12/2025",
+      "Start time - Panamanian Time": "14:00",
+      "Last Modified": "2025-10-31T16:21:35.000Z"
+    },
+    {
+      "id": "recqZ9Q4blNqtLAck",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "EU Timber Imports",
+      "Organizer/Chair": "European Union",
+      "Room ": "Bukhara Deer",
+      "start date": "26/11/2025",
+      "Start Time - sort": "2025-11-26T18:00:00.000Z",
+      "End": "20:30",
+      "Start": "19:00",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "26/11/2025",
+      "Start time - Panamanian Time": "19:00",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recr2VN4TariUE6tK",
+      "createdTime": "2025-10-31T16:09:32.000Z",
+      "Title": "Committee I",
+      "Room ": "Com I",
+      "start date": "2/12/2025",
+      "Start Time - sort": "2025-12-02T08:00:00.000Z",
+      "End": "12:00",
+      "Start": "09:00",
+      "Type": [
+        "Main mtg"
+      ],
+      "Start date - Panamanian date": "2/12/2025",
+      "Start time - Panamanian Time": "09:00",
+      "Last Modified": "2025-10-31T16:21:34.000Z"
+    },
+    {
+      "id": "recs4VQBBcSP9SEOX",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "CTSP",
+      "Organizer/Chair": "CITES Secretariat ",
+      "Room ": "Markhor",
+      "start date": "27/11/2025",
+      "Start Time - sort": "2025-11-27T11:15:00.000Z",
+      "End": "13:45",
+      "Start": "12:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "27/11/2025",
+      "Start time - Panamanian Time": "12:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recsHaGSkcaOBNrUu",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "Purpopse Codes misuse",
+      "Organizer/Chair": "FOUR PAWS International",
+      "Room ": "Bukhara Deer",
+      "start date": "3/12/2025",
+      "Start Time - sort": "2025-12-03T18:00:00.000Z",
+      "End": "20:30",
+      "Start": "19:00",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "3/12/2025",
+      "Start time - Panamanian Time": "19:00",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "rectcF773AwW4k3AX",
+      "createdTime": "2025-10-29T14:20:41.000Z",
+      "Title": "Science, cooperation and community: the path of hope for the vaquita marina",
+      "Organizer/Chair": "Mexico",
+      "Room ": "Press Room",
+      "start date": "27/11/2025",
+      "Start Time - sort": "2025-11-27T11:15:00.000Z",
+      "End": "13:45",
+      "Start": "12:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "27/11/2025",
+      "Start time - Panamanian Time": "12:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recuChLwohZMtypw0",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "Elephant Status Reports",
+      "Organizer/Chair": "IUCN SSC African Elephant Specialist Group",
+      "Room ": "Bukhara Deer",
+      "start date": "3/12/2025",
+      "Start Time - sort": "2025-12-03T16:15:00.000Z",
+      "End": "18:45",
+      "Start": "17:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "3/12/2025",
+      "Start time - Panamanian Time": "17:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recuN5H3UoQs2p0zk",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "ETIS 2.0 - What's new?",
+      "Organizer/Chair": "TRAFFIC",
+      "Room ": "Saker Falcon",
+      "start date": "28/11/2025",
+      "Start Time - sort": "2025-11-28T18:00:00.000Z",
+      "End": "20:30",
+      "Start": "19:00",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "28/11/2025",
+      "Start time - Panamanian Time": "19:00",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recuarnwYjo3EYIGZ",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "AI for Combatting IWT",
+      "Organizer/Chair": "Co-hosted by the World Wide Fund for Nature Beijing Office (WWF China) and WWF Hong Kong",
+      "Room ": "Markhor",
+      "start date": "2/12/2025",
+      "Start Time - sort": "2025-12-02T18:00:00.000Z",
+      "End": "20:30",
+      "Start": "19:00",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "2/12/2025",
+      "Start time - Panamanian Time": "19:00",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recvL9C1ldZlsrEe1",
+      "createdTime": "2025-10-31T16:07:12.000Z",
+      "Title": "Committee I",
+      "Room ": "Com I",
+      "start date": "26/11/2025",
+      "Start Time - sort": "2025-11-26T08:00:00.000Z",
+      "End": "12:00",
+      "Start": "09:00",
+      "Type": [
+        "Main mtg"
+      ],
+      "Start date - Panamanian date": "26/11/2025",
+      "Start time - Panamanian Time": "09:00",
+      "Last Modified": "2025-10-31T16:21:14.000Z"
+    },
+    {
+      "id": "recvcQxcm6x6hpZLg",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "Jaguars at a Crossroads",
+      "Organizer/Chair": "Panthera co-hosted by Brazil, Mexico and the Jaguar 2030 Coordination Committee: Global Wildlife Program, Inter American Development Bank, IUCN Cat Specialist Group, Panthera, UNDP, UNEP, UNODC, WCS, World Bank, and WWF, with the CITES and CMS Secretariats",
+      "Room ": "Saker Falcon",
+      "start date": "26/11/2025",
+      "Start Time - sort": "2025-11-26T16:15:00.000Z",
+      "End": "18:45",
+      "Start": "17:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "26/11/2025",
+      "Start time - Panamanian Time": "17:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recw0D9TJU9jApWig",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "CITES Music Instruments",
+      "Organizer/Chair": "League of American Orchestras, co-hosted by the International Alliance of Violin and Bow Makers",
+      "Room ": "Markhor",
+      "start date": "4/12/2025",
+      "Start Time - sort": "2025-12-04T16:15:00.000Z",
+      "End": "18:45",
+      "Start": "17:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "4/12/2025",
+      "Start time - Panamanian Time": "17:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recwZcvsnpCIQ6vMZ",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "Info sharing with LE",
+      "Organizer/Chair": "United for Wildlife and the Nature Crime Alliance (with support from INTERPOL Wildlife Crime Working Group)",
+      "Room ": "Saiga",
+      "start date": "29/11/2025",
+      "Start Time - sort": "2025-11-29T18:00:00.000Z",
+      "End": "20:30",
+      "Start": "19:00",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "29/11/2025",
+      "Start time - Panamanian Time": "19:00",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recwal1KKb3yPGZN2",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "CITES AIA-ID Initiative",
+      "Organizer/Chair": "China (China CITES SA: Endangered Species Scientific Commission, PRC (ESSC)",
+      "Room ": "C. Asian Tortoise",
+      "start date": "26/11/2025",
+      "Start Time - sort": "2025-11-26T16:15:00.000Z",
+      "End": "18:45",
+      "Start": "17:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "26/11/2025",
+      "Start time - Panamanian Time": "17:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recx6ughdWMbeeWzS",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "CITES e-learning tools",
+      "Organizer/Chair": "CITES Secretariat",
+      "Room ": "Saiga",
+      "start date": "27/11/2025",
+      "Start Time - sort": "2025-11-27T16:15:00.000Z",
+      "End": "18:45",
+      "Start": "17:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "27/11/2025",
+      "Start time - Panamanian Time": "17:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "recxGvwZ4l3qsW05P",
+      "createdTime": "2025-10-31T16:10:13.000Z",
+      "Title": "Committee I",
+      "Room ": "Com I",
+      "start date": "3/12/2025",
+      "Start Time - sort": "2025-12-03T08:00:00.000Z",
+      "End": "12:00",
+      "Start": "09:00",
+      "Type": [
+        "Main mtg"
+      ],
+      "Start date - Panamanian date": "3/12/2025",
+      "Start time - Panamanian Time": "09:00",
+      "Last Modified": "2025-10-31T16:21:41.000Z"
+    },
+    {
+      "id": "recyIDByk6V9XzGHX",
+      "createdTime": "2025-10-31T16:08:42.000Z",
+      "Title": "Committee II",
+      "Room ": "Com II",
+      "start date": "28/11/2025",
+      "Start Time - sort": "2025-11-28T08:00:00.000Z",
+      "End": "12:00",
+      "Start": "09:00",
+      "Type": [
+        "Main mtg"
+      ],
+      "Start date - Panamanian date": "28/11/2025",
+      "Start time - Panamanian Time": "09:00",
+      "Last Modified": "2025-10-31T16:21:57.000Z"
+    },
+    {
+      "id": "reczgqarqniHqcmko",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "CITES Enforcement",
+      "Organizer/Chair": "European Union and China",
+      "Room ": "Bukhara Deer",
+      "start date": "24/11/2025",
+      "Start Time - sort": "2025-11-24T11:15:00.000Z",
+      "End": "13:45",
+      "Start": "12:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "24/11/2025",
+      "Start time - Panamanian Time": "12:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "reczlpoMQ4tVMhzml",
+      "createdTime": "2025-10-07T15:23:06.000Z",
+      "Title": "Eel-Legal Trade",
+      "Organizer/Chair": "Sustainable Eel Group",
+      "Room ": "Markhor",
+      "start date": "26/11/2025",
+      "Start Time - sort": "2025-11-26T11:15:00.000Z",
+      "End": "13:45",
+      "Start": "12:15",
+      "Type": [
+        "Side event"
+      ],
+      "Start date - Panamanian date": "26/11/2025",
+      "Start time - Panamanian Time": "12:15",
+      "Last Modified": "2025-10-30T14:34:26.000Z"
+    }
+  ]
+}
