@@ -1,6 +1,6 @@
 {
-  "exportedAt": "2025-11-01T16:32:33.906Z",
-  "total": 138,
+  "exportedAt": "2025-11-01T17:07:33.828Z",
+  "total": 139,
   "records": [
     {
       "id": "rec04J6bNhLOTj4WH",
@@ -252,6 +252,24 @@
       "Start date - Panamanian date": "25/11/2025",
       "Start time - Panamanian Time": "12:15",
       "Last Modified": "2025-10-30T14:34:26.000Z"
+    },
+    {
+      "id": "rec96PzQuHd02Ai3Y",
+      "createdTime": "2025-11-01T17:07:27.000Z",
+      "Title": "T",
+      "start date": {
+        "error": "#ERROR!"
+      },
+      "Start": {
+        "error": "#ERROR!"
+      },
+      "Start date - Panamanian date": {
+        "error": "#ERROR!"
+      },
+      "Start time - Panamanian Time": {
+        "error": "#ERROR!"
+      },
+      "Last Modified": "2025-11-01T17:07:31.000Z"
     },
     {
       "id": "rec9WR39W29qS7d4h",
