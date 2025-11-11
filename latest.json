@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2025-11-11T14:48:34.159Z",
+  "exportedAt": "2025-11-11T14:49:33.952Z",
   "total": 138,
   "records": [
     {
@@ -1217,12 +1217,14 @@
       "id": "recXI6xT4CfRRElP5",
       "createdTime": "2025-11-11T14:48:10.000Z",
       "Title": "Test closed meeting",
+      "Room ": "Caracal (Press)",
       "start date": "25/11/2025",
-      "Start Time - sort": "2025-11-25T14:48:00.000Z",
-      "Start": "15:48",
+      "Start Time - sort": "2025-11-25T07:00:00.000Z",
+      "End": "09:00",
+      "Start": "08:00",
       "Start date - Panamanian date": "25/11/2025",
-      "Start time - Panamanian Time": "15:48",
-      "Last Modified": "2025-11-11T14:48:33.000Z"
+      "Start time - Panamanian Time": "08:00",
+      "Last Modified": "2025-11-11T14:49:09.000Z"
     },
     {
       "id": "recXxrBkssp9jPZOZ",
