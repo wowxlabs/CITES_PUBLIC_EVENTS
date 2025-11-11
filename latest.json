@@ -1,6 +1,6 @@
 {
-  "exportedAt": "2025-11-11T14:49:33.952Z",
-  "total": 138,
+  "exportedAt": "2025-11-11T15:11:33.998Z",
+  "total": 139,
   "records": [
     {
       "id": "rec04J6bNhLOTj4WH",
@@ -90,6 +90,22 @@
       "Start date - Panamanian date": "26/11/2025",
       "Start time - Panamanian Time": "17:00",
       "Last Modified": "2025-11-07T15:25:48.000Z"
+    },
+    {
+      "id": "rec2AePNmej7OJzgC",
+      "createdTime": "2025-11-11T14:51:29.000Z",
+      "start date": {
+        "error": "#ERROR!"
+      },
+      "Start": {
+        "error": "#ERROR!"
+      },
+      "Start date - Panamanian date": {
+        "error": "#ERROR!"
+      },
+      "Start time - Panamanian Time": {
+        "error": "#ERROR!"
+      }
     },
     {
       "id": "rec2XI4ddSCQ5jAOm",
@@ -1216,15 +1232,19 @@
     {
       "id": "recXI6xT4CfRRElP5",
       "createdTime": "2025-11-11T14:48:10.000Z",
-      "Title": "Test closed meeting",
-      "Room ": "Caracal (Press)",
-      "start date": "25/11/2025",
-      "Start Time - sort": "2025-11-25T07:00:00.000Z",
-      "End": "09:00",
-      "Start": "08:00",
-      "Start date - Panamanian date": "25/11/2025",
-      "Start time - Panamanian Time": "08:00",
-      "Last Modified": "2025-11-11T14:49:09.000Z"
+      "start date": {
+        "error": "#ERROR!"
+      },
+      "Start": {
+        "error": "#ERROR!"
+      },
+      "Start date - Panamanian date": {
+        "error": "#ERROR!"
+      },
+      "Start time - Panamanian Time": {
+        "error": "#ERROR!"
+      },
+      "Last Modified": "2025-11-11T15:11:29.000Z"
     },
     {
       "id": "recXxrBkssp9jPZOZ",
