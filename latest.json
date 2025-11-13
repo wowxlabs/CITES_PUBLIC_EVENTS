@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2025-11-13T09:10:33.789Z",
+  "exportedAt": "2025-11-13T09:21:33.785Z",
   "total": 134,
   "records": [
     {
@@ -2097,7 +2097,6 @@
       "createdTime": "2025-11-12T14:29:23.000Z",
       "Title": "WG TEST",
       "Organizer/Chair": "Chair/Canada",
-      "Room ": "America 1",
       "start date": "26/11/2025",
       "Start Time - sort": "2025-11-26T07:00:00.000Z",
       "End": "09:00",
@@ -2107,7 +2106,7 @@
       ],
       "Start date - Panamanian date": "26/11/2025",
       "Start time - Panamanian Time": "08:00",
-      "Last Modified": "2025-11-13T09:10:20.000Z"
+      "Last Modified": "2025-11-13T09:21:24.000Z"
     },
     {
       "id": "recsHaGSkcaOBNrUu",
