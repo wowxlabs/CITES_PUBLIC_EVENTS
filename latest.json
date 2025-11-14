@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2025-11-14T12:44:34.055Z",
+  "exportedAt": "2025-11-14T12:45:34.057Z",
   "total": 135,
   "records": [
     {
@@ -1599,12 +1599,15 @@
       "Organizer/Chair": "CITES Secretariat",
       "Room ": "Caracal (Press)",
       "start date": "24/11/2025",
-      "Start Time - sort": "2025-11-24T12:44:00.000Z",
-      "End": "14:00",
-      "Start": "13:44",
+      "Start Time - sort": "2025-11-24T13:00:00.000Z",
+      "End": "15:00",
+      "Start": "14:00",
+      "Type": [
+        "Other"
+      ],
       "Start date - Panamanian date": "24/11/2025",
-      "Start time - Panamanian Time": "13:44",
-      "Last Modified": "2025-11-14T12:44:22.000Z"
+      "Start time - Panamanian Time": "14:00",
+      "Last Modified": "2025-11-14T12:44:52.000Z"
     },
     {
       "id": "recfpZS036r0Vh7Vl",
