@@ -1,6 +1,6 @@
 {
-  "exportedAt": "2025-11-14T11:47:34.103Z",
-  "total": 134,
+  "exportedAt": "2025-11-14T12:41:34.050Z",
+  "total": 135,
   "records": [
     {
       "id": "rec04J6bNhLOTj4WH",
@@ -1591,6 +1591,24 @@
       "Start date - Panamanian date": "4/12/2025",
       "Start time - Panamanian Time": "12:15",
       "Last Modified": "2025-11-07T15:25:48.000Z"
+    },
+    {
+      "id": "recfP9Zztn1sgYY1d",
+      "createdTime": "2025-11-14T12:41:03.000Z",
+      "Title": "Opening Press Conference",
+      "start date": {
+        "error": "#ERROR!"
+      },
+      "Start": {
+        "error": "#ERROR!"
+      },
+      "Start date - Panamanian date": {
+        "error": "#ERROR!"
+      },
+      "Start time - Panamanian Time": {
+        "error": "#ERROR!"
+      },
+      "Last Modified": "2025-11-14T12:41:14.000Z"
     },
     {
       "id": "recfpZS036r0Vh7Vl",
