@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2025-11-14T12:41:34.050Z",
+  "exportedAt": "2025-11-14T12:44:34.055Z",
   "total": 135,
   "records": [
     {
@@ -1596,19 +1596,15 @@
       "id": "recfP9Zztn1sgYY1d",
       "createdTime": "2025-11-14T12:41:03.000Z",
       "Title": "Opening Press Conference",
-      "start date": {
-        "error": "#ERROR!"
-      },
-      "Start": {
-        "error": "#ERROR!"
-      },
-      "Start date - Panamanian date": {
-        "error": "#ERROR!"
-      },
-      "Start time - Panamanian Time": {
-        "error": "#ERROR!"
-      },
-      "Last Modified": "2025-11-14T12:41:14.000Z"
+      "Organizer/Chair": "CITES Secretariat",
+      "Room ": "Caracal (Press)",
+      "start date": "24/11/2025",
+      "Start Time - sort": "2025-11-24T12:44:00.000Z",
+      "End": "14:00",
+      "Start": "13:44",
+      "Start date - Panamanian date": "24/11/2025",
+      "Start time - Panamanian Time": "13:44",
+      "Last Modified": "2025-11-14T12:44:22.000Z"
     },
     {
       "id": "recfpZS036r0Vh7Vl",
