@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2025-11-17T12:18:33.909Z",
+  "exportedAt": "2025-11-17T12:23:33.873Z",
   "total": 154,
   "records": [
     {
@@ -743,7 +743,7 @@
       "id": "recLz0oxiNtCYgwmU",
       "createdTime": "2025-10-07T15:23:06.000Z",
       "Title": "Data for Enforcement",
-      "Organizer/Chair": "CITES / ICCWC",
+      "Organizer/Chair": "CITES /ICCWC",
       "Room ": "Bukahra D. (120)",
       "start date": "27/11/2025",
       "Start Time - sort": "2025-11-27T11:15:00.000Z",
@@ -755,7 +755,7 @@
       ],
       "Start date - Panamanian date": "27/11/2025",
       "Start time - Panamanian Time": "12:15",
-      "Last Modified": "2025-11-07T15:23:02.000Z"
+      "Last Modified": "2025-11-17T12:23:32.000Z"
     },
     {
       "id": "recMHqVtSk9oeSW2N",
