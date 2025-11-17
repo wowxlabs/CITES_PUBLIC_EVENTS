@@ -1,6 +1,6 @@
 {
-  "exportedAt": "2025-11-17T10:59:34.043Z",
-  "total": 148,
+  "exportedAt": "2025-11-17T11:01:33.886Z",
+  "total": 149,
   "records": [
     {
       "id": "rec04J6bNhLOTj4WH",
@@ -1121,6 +1121,24 @@
       "Start date - Panamanian date": "2/12/2025",
       "Start time - Panamanian Time": "12:15",
       "Last Modified": "2025-11-07T15:25:48.000Z"
+    },
+    {
+      "id": "recSuknYhadmDsKlp",
+      "createdTime": "2025-11-17T10:59:48.000Z",
+      "Title": "Seventy-ninth meeting of the Standing Committee (SC79)",
+      "start date": {
+        "error": "#ERROR!"
+      },
+      "Start": {
+        "error": "#ERROR!"
+      },
+      "Start date - Panamanian date": {
+        "error": "#ERROR!"
+      },
+      "Start time - Panamanian Time": {
+        "error": "#ERROR!"
+      },
+      "Last Modified": "2025-11-17T11:00:50.000Z"
     },
     {
       "id": "recTGnqcOH2HsID3J",
