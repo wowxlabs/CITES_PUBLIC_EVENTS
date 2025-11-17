@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2025-11-17T11:07:35.032Z",
+  "exportedAt": "2025-11-17T11:08:35.217Z",
   "total": 300,
   "records": [
     {
@@ -1126,13 +1126,14 @@
       "id": "recSuknYhadmDsKlp",
       "createdTime": "2025-11-17T10:59:48.000Z",
       "Title": "Seventy-ninth meeting of the Standing Committee (SC79)",
+      "Room ": "Argali (Com I)",
       "start date": "23/11/2025",
       "Start Time - sort": "2025-11-23T08:00:00.000Z",
       "End": "12:00",
       "Start": "09:00",
       "Start date - Panamanian date": "23/11/2025",
       "Start time - Panamanian Time": "09:00",
-      "Last Modified": "2025-11-17T11:07:09.000Z"
+      "Last Modified": "2025-11-17T11:08:02.000Z"
     },
     {
       "id": "recTGnqcOH2HsID3J",
@@ -1758,12 +1759,14 @@
       "id": "receYGagiiH9KAsNm",
       "createdTime": "2025-11-17T11:07:16.000Z",
       "Title": "Seventy-ninth meeting of the Standing Committee (SC79)",
+      "Room ": "Argali (Com I)",
       "start date": "23/11/2025",
       "Start Time - sort": "2025-11-23T13:00:00.000Z",
+      "End": "17:00",
       "Start": "14:00",
       "Start date - Panamanian date": "23/11/2025",
       "Start time - Panamanian Time": "14:00",
-      "Last Modified": "2025-11-17T11:07:32.000Z"
+      "Last Modified": "2025-11-17T11:08:05.000Z"
     },
     {
       "id": "recfP9Zztn1sgYY1d",
@@ -3737,13 +3740,14 @@
       "id": "recSuknYhadmDsKlp",
       "createdTime": "2025-11-17T10:59:48.000Z",
       "Title": "Seventy-ninth meeting of the Standing Committee (SC79)",
+      "Room ": "Argali (Com I)",
       "start date": "23/11/2025",
       "Start Time - sort": "2025-11-23T08:00:00.000Z",
       "End": "12:00",
       "Start": "09:00",
       "Start date - Panamanian date": "23/11/2025",
       "Start time - Panamanian Time": "09:00",
-      "Last Modified": "2025-11-17T11:07:09.000Z"
+      "Last Modified": "2025-11-17T11:08:02.000Z"
     },
     {
       "id": "recTGnqcOH2HsID3J",
@@ -4369,12 +4373,14 @@
       "id": "receYGagiiH9KAsNm",
       "createdTime": "2025-11-17T11:07:16.000Z",
       "Title": "Seventy-ninth meeting of the Standing Committee (SC79)",
+      "Room ": "Argali (Com I)",
       "start date": "23/11/2025",
       "Start Time - sort": "2025-11-23T13:00:00.000Z",
+      "End": "17:00",
       "Start": "14:00",
       "Start date - Panamanian date": "23/11/2025",
       "Start time - Panamanian Time": "14:00",
-      "Last Modified": "2025-11-17T11:07:32.000Z"
+      "Last Modified": "2025-11-17T11:08:05.000Z"
     },
     {
       "id": "recfP9Zztn1sgYY1d",
