@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2025-11-17T09:24:35.197Z",
+  "exportedAt": "2025-11-17T09:29:35.060Z",
   "total": 296,
   "records": [
     {
@@ -204,15 +204,15 @@
       "Title": "Committee I",
       "Room ": "Argali (Com I)",
       "start date": "25/11/2025",
-      "Start Time - sort": "2025-11-25T08:30:00.000Z",
-      "End": "13:00",
-      "Start": "09:30",
+      "Start Time - sort": "2025-11-25T08:00:00.000Z",
+      "End": "12:00",
+      "Start": "09:00",
       "Type": [
         "Main mtg"
       ],
       "Start date - Panamanian date": "25/11/2025",
-      "Start time - Panamanian Time": "09:30",
-      "Last Modified": "2025-11-17T09:23:55.000Z"
+      "Start time - Panamanian Time": "09:00",
+      "Last Modified": "2025-11-17T09:29:01.000Z"
     },
     {
       "id": "rec5ZgxC2HuDK7ScV",
@@ -1041,15 +1041,15 @@
       "Title": "Committee II",
       "Room ": "Rhodiola S. (Com II)",
       "start date": "25/11/2025",
-      "Start Time - sort": "2025-11-25T08:30:00.000Z",
-      "End": "13:00",
-      "Start": "09:30",
+      "Start Time - sort": "2025-11-25T08:00:00.000Z",
+      "End": "12:00",
+      "Start": "09:00",
       "Type": [
         "Main mtg"
       ],
       "Start date - Panamanian date": "25/11/2025",
-      "Start time - Panamanian Time": "09:30",
-      "Last Modified": "2025-11-17T09:24:03.000Z"
+      "Start time - Panamanian Time": "09:00",
+      "Last Modified": "2025-11-17T09:28:56.000Z"
     },
     {
       "id": "recRSw5aQNDNxsLSh",
@@ -2791,15 +2791,15 @@
       "Title": "Committee I",
       "Room ": "Argali (Com I)",
       "start date": "25/11/2025",
-      "Start Time - sort": "2025-11-25T08:30:00.000Z",
-      "End": "13:00",
-      "Start": "09:30",
+      "Start Time - sort": "2025-11-25T08:00:00.000Z",
+      "End": "12:00",
+      "Start": "09:00",
       "Type": [
         "Main mtg"
       ],
       "Start date - Panamanian date": "25/11/2025",
-      "Start time - Panamanian Time": "09:30",
-      "Last Modified": "2025-11-17T09:23:55.000Z"
+      "Start time - Panamanian Time": "09:00",
+      "Last Modified": "2025-11-17T09:29:01.000Z"
     },
     {
       "id": "rec5ZgxC2HuDK7ScV",
@@ -3628,15 +3628,15 @@
       "Title": "Committee II",
       "Room ": "Rhodiola S. (Com II)",
       "start date": "25/11/2025",
-      "Start Time - sort": "2025-11-25T08:30:00.000Z",
-      "End": "13:00",
-      "Start": "09:30",
+      "Start Time - sort": "2025-11-25T08:00:00.000Z",
+      "End": "12:00",
+      "Start": "09:00",
       "Type": [
         "Main mtg"
       ],
       "Start date - Panamanian date": "25/11/2025",
-      "Start time - Panamanian Time": "09:30",
-      "Last Modified": "2025-11-17T09:24:03.000Z"
+      "Start time - Panamanian Time": "09:00",
+      "Last Modified": "2025-11-17T09:28:56.000Z"
     },
     {
       "id": "recRSw5aQNDNxsLSh",
