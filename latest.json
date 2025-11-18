@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2025-11-18T11:41:33.864Z",
+  "exportedAt": "2025-11-18T11:42:33.845Z",
   "total": 155,
   "records": [
     {
@@ -1871,9 +1871,12 @@
       "End": "12:00",
       "Description of the side event": "CITES Secretariat - ICCWC - Closed Meeting",
       "Start": "09:30",
+      "Type": [
+        "Other"
+      ],
       "Start date - Panamanian date": "25/11/2025",
       "Start time - Panamanian Time": "09:30",
-      "Last Modified": "2025-11-18T11:41:25.000Z"
+      "Last Modified": "2025-11-18T11:41:38.000Z"
     },
     {
       "id": "recgPaG4HM2CsOL4Z",
