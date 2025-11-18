@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2025-11-18T11:40:33.990Z",
+  "exportedAt": "2025-11-18T11:41:33.864Z",
   "total": 155,
   "records": [
     {
@@ -1866,19 +1866,14 @@
       "Title": "CITES Secretariat - ICCWC - Closed Meeting",
       "Organizer/Chair": "CITES Secretariat - ICCWC - Closed Meeting",
       "Room ": "D. Monitor (32)",
-      "start date": {
-        "error": "#ERROR!"
-      },
-      "Start": {
-        "error": "#ERROR!"
-      },
-      "Start date - Panamanian date": {
-        "error": "#ERROR!"
-      },
-      "Start time - Panamanian Time": {
-        "error": "#ERROR!"
-      },
-      "Last Modified": "2025-11-18T11:40:32.000Z"
+      "start date": "25/11/2025",
+      "Start Time - sort": "2025-11-25T08:30:00.000Z",
+      "End": "12:00",
+      "Description of the side event": "CITES Secretariat - ICCWC - Closed Meeting",
+      "Start": "09:30",
+      "Start date - Panamanian date": "25/11/2025",
+      "Start time - Panamanian Time": "09:30",
+      "Last Modified": "2025-11-18T11:41:25.000Z"
     },
     {
       "id": "recgPaG4HM2CsOL4Z",
