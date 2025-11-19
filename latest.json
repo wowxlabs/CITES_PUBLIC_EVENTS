@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2025-11-19T09:57:34.043Z",
+  "exportedAt": "2025-11-19T09:58:33.976Z",
   "total": 156,
   "records": [
     {
@@ -44,11 +44,16 @@
       "Organizer/Chair": "High Level Segment",
       "Room ": "Argali (Com I)",
       "start date": "23/11/2025",
-      "Start Time - sort": "2025-11-23T09:57:00.000Z",
-      "Start": "10:57",
+      "Start Time - sort": "2025-11-23T14:00:00.000Z",
+      "End": "18:00",
+      "Description of the side event": "High Level Segment",
+      "Start": "15:00",
+      "Type": [
+        "Other"
+      ],
       "Start date - Panamanian date": "23/11/2025",
-      "Start time - Panamanian Time": "10:57",
-      "Last Modified": "2025-11-19T09:57:30.000Z"
+      "Start time - Panamanian Time": "15:00",
+      "Last Modified": "2025-11-19T09:57:54.000Z"
     },
     {
       "id": "rec0bqsN4a909TjIY",
