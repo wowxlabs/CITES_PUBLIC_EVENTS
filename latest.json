@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2025-11-19T19:51:33.972Z",
+  "exportedAt": "2025-11-19T20:20:33.882Z",
   "total": 159,
   "records": [
     {
@@ -743,24 +743,6 @@
       "Last Modified": "2025-10-31T16:21:20.000Z"
     },
     {
-      "id": "recKeAZIeoHpoqRlG",
-      "createdTime": "2025-11-19T19:51:16.000Z",
-      "Title": "Test Side event",
-      "start date": {
-        "error": "#ERROR!"
-      },
-      "Start": {
-        "error": "#ERROR!"
-      },
-      "Start date - Panamanian date": {
-        "error": "#ERROR!"
-      },
-      "Start time - Panamanian Time": {
-        "error": "#ERROR!"
-      },
-      "Last Modified": "2025-11-19T19:51:30.000Z"
-    },
-    {
       "id": "recKvMmu5pCJNnnWT",
       "createdTime": "2025-10-07T15:23:06.000Z",
       "Title": "Science, cooperation and community: the path of hope for the vaquita marina",
@@ -864,6 +846,19 @@
       "Start date - Panamanian date": "28/11/2025",
       "Start time - Panamanian Time": "19:00",
       "Last Modified": "2025-11-07T15:25:48.000Z"
+    },
+    {
+      "id": "recMly65dcFfVUj7o",
+      "createdTime": "2025-11-19T20:19:40.000Z",
+      "Title": "Test",
+      "Room ": "Argali (Com I)",
+      "start date": "23/11/2025",
+      "Start Time - sort": "2025-11-23T08:00:00.000Z",
+      "End": "12:00",
+      "Start": "09:00",
+      "Start date - Panamanian date": "23/11/2025",
+      "Start time - Panamanian Time": "09:00",
+      "Last Modified": "2025-11-19T20:20:21.000Z"
     },
     {
       "id": "recN3zfilyL2PuBtw",
