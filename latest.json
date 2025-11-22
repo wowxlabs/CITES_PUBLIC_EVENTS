@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2025-11-22T09:56:33.782Z",
+  "exportedAt": "2025-11-22T11:05:33.974Z",
   "total": 164,
   "records": [
     {
@@ -40,8 +40,8 @@
     {
       "id": "rec0VnOnQgORfEQbT",
       "createdTime": "2025-11-19T09:57:09.000Z",
-      "Title": "High Level Segment ",
-      "Organizer/Chair": "High Level Segment",
+      "Title": "High-Level Dialogue",
+      "Organizer/Chair": "High-Level Dialogue",
       "Room ": "Argali (Com I)",
       "start date": "23/11/2025",
       "Start Time - sort": "2025-11-23T14:00:00.000Z",
@@ -53,7 +53,7 @@
       ],
       "Start date - Panamanian date": "23/11/2025",
       "Start time - Panamanian Time": "15:00",
-      "Last Modified": "2025-11-19T21:15:32.000Z"
+      "Last Modified": "2025-11-22T11:05:04.000Z"
     },
     {
       "id": "rec0bqsN4a909TjIY",
