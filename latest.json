@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2025-11-22T09:08:33.834Z",
+  "exportedAt": "2025-11-22T09:09:33.896Z",
   "total": 159,
   "records": [
     {
@@ -735,11 +735,14 @@
       "start date": "24/11/2025",
       "Start Time - sort": "2025-11-24T14:00:00.000Z",
       "End": "18:00",
-      "Description of the side event": "Afri",
+      "Description of the side event": "Africa - Regional Meeting\n",
       "Start": "15:00",
+      "Type": [
+        "Regional mtg"
+      ],
       "Start date - Panamanian date": "24/11/2025",
       "Start time - Panamanian Time": "15:00",
-      "Last Modified": "2025-11-22T09:08:30.000Z"
+      "Last Modified": "2025-11-22T09:08:37.000Z"
     },
     {
       "id": "recKbF485FQnwvboN",
