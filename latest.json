@@ -1,6 +1,6 @@
 {
-  "exportedAt": "2025-11-21T18:25:33.923Z",
-  "total": 158,
+  "exportedAt": "2025-11-22T08:12:33.923Z",
+  "total": 159,
   "records": [
     {
       "id": "rec04J6bNhLOTj4WH",
@@ -725,6 +725,24 @@
       "Start date - Panamanian date": "28/11/2025",
       "Start time - Panamanian Time": "17:15",
       "Last Modified": "2025-11-19T21:15:32.000Z"
+    },
+    {
+      "id": "recKWLClcRoA3hqoo",
+      "createdTime": "2025-11-22T08:11:25.000Z",
+      "Title": "Africa - Regional Meeting ",
+      "start date": {
+        "error": "#ERROR!"
+      },
+      "Start": {
+        "error": "#ERROR!"
+      },
+      "Start date - Panamanian date": {
+        "error": "#ERROR!"
+      },
+      "Start time - Panamanian Time": {
+        "error": "#ERROR!"
+      },
+      "Last Modified": "2025-11-22T08:12:25.000Z"
     },
     {
       "id": "recKbF485FQnwvboN",
