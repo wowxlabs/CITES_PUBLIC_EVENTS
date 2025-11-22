@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2025-11-22T09:15:33.894Z",
+  "exportedAt": "2025-11-22T09:17:33.826Z",
   "total": 161,
   "records": [
     {
@@ -447,19 +447,15 @@
       "createdTime": "2025-11-22T09:14:22.000Z",
       "Title": "Central & South America and the Carribean - Regional Meeting ",
       "Organizer/Chair": "CSAC Region",
-      "start date": {
-        "error": "#ERROR!"
-      },
-      "Start": {
-        "error": "#ERROR!"
-      },
-      "Start date - Panamanian date": {
-        "error": "#ERROR!"
-      },
-      "Start time - Panamanian Time": {
-        "error": "#ERROR!"
-      },
-      "Last Modified": "2025-11-22T09:14:56.000Z"
+      "Room ": "Saiga A. (120)",
+      "start date": "24/11/2025",
+      "Start Time - sort": "2025-11-24T14:00:00.000Z",
+      "End": "18:00",
+      "Description of the side event": "Central & South America and the Carribean",
+      "Start": "15:00",
+      "Start date - Panamanian date": "24/11/2025",
+      "Start time - Panamanian Time": "15:00",
+      "Last Modified": "2025-11-22T09:17:30.000Z"
     },
     {
       "id": "recEC1IgyBr5Wdmjs",
