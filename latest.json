@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2025-11-22T08:12:33.923Z",
+  "exportedAt": "2025-11-22T08:15:33.861Z",
   "total": 159,
   "records": [
     {
@@ -730,6 +730,8 @@
       "id": "recKWLClcRoA3hqoo",
       "createdTime": "2025-11-22T08:11:25.000Z",
       "Title": "Africa - Regional Meeting ",
+      "Organizer/Chair": "Africa Region ",
+      "Room ": "Argali (Com I)",
       "start date": {
         "error": "#ERROR!"
       },
@@ -742,7 +744,7 @@
       "Start time - Panamanian Time": {
         "error": "#ERROR!"
       },
-      "Last Modified": "2025-11-22T08:12:25.000Z"
+      "Last Modified": "2025-11-22T08:15:17.000Z"
     },
     {
       "id": "recKbF485FQnwvboN",
