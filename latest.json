@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2025-11-23T16:59:33.887Z",
+  "exportedAt": "2025-11-23T17:04:33.846Z",
   "total": 166,
   "records": [
     {
@@ -2217,19 +2217,15 @@
       "id": "recjrww75Pb46jwjb",
       "createdTime": "2025-11-23T15:53:43.000Z",
       "Title": "Daily Coordination Meeting - Oceania \n",
-      "start date": {
-        "error": "#ERROR!"
-      },
-      "Start": {
-        "error": "#ERROR!"
-      },
-      "Start date - Panamanian date": {
-        "error": "#ERROR!"
-      },
-      "Start time - Panamanian Time": {
-        "error": "#ERROR!"
-      },
-      "Last Modified": "2025-11-23T16:59:13.000Z"
+      "Organizer/Chair": "Oceania Region \n",
+      "Room ": "D. Monitor (32)",
+      "start date": "24/11/2025",
+      "Start Time - sort": "2025-11-24T06:30:00.000Z",
+      "End": "09:00",
+      "Start": "07:30",
+      "Start date - Panamanian date": "24/11/2025",
+      "Start time - Panamanian Time": "07:30",
+      "Last Modified": "2025-11-23T17:04:32.000Z"
     },
     {
       "id": "reck4EtFrGNqlLavJ",
