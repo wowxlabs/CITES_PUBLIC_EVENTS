@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2025-11-23T17:24:33.937Z",
+  "exportedAt": "2025-11-23T17:25:34.029Z",
   "total": 169,
   "records": [
     {
@@ -1219,11 +1219,13 @@
       "Organizer/Chair": "Africa Region ",
       "Room ": "S.Falcon (70)",
       "start date": "24/11/2025",
-      "Start Time - sort": "2025-11-24T17:24:00.000Z",
-      "Start": "18:24",
+      "Start Time - sort": "2025-11-24T06:00:00.000Z",
+      "End": "09:00",
+      "Description of the side event": "Daily Coordination Meeting - Africa ",
+      "Start": "07:00",
       "Start date - Panamanian date": "24/11/2025",
-      "Start time - Panamanian Time": "18:24",
-      "Last Modified": "2025-11-23T17:24:24.000Z"
+      "Start time - Panamanian Time": "07:00",
+      "Last Modified": "2025-11-23T17:25:18.000Z"
     },
     {
       "id": "recSuknYhadmDsKlp",
