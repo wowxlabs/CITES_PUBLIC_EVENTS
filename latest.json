@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2025-11-23T17:15:34.852Z",
+  "exportedAt": "2025-11-23T17:19:35.009Z",
   "total": 338,
   "records": [
     {
@@ -676,7 +676,7 @@
       "id": "recIcMLHBOjo5NmFk",
       "createdTime": "2025-11-23T17:13:54.000Z",
       "Title": "Daily Coordination Meeting - Central and South America and the Caribbean\n copy",
-      "Organizer/Chair": "Oceania Region \n",
+      "Organizer/Chair": "CSAC Region \n",
       "Room ": "Saiga A. (120)",
       "start date": "24/11/2025",
       "Start Time - sort": "2025-11-24T06:00:00.000Z",
@@ -688,7 +688,7 @@
       ],
       "Start date - Panamanian date": "24/11/2025",
       "Start time - Panamanian Time": "07:00",
-      "Last Modified": "2025-11-23T17:15:01.000Z"
+      "Last Modified": "2025-11-23T17:19:08.000Z"
     },
     {
       "id": "recImr5DPZzFNHceZ",
@@ -1442,8 +1442,8 @@
       "id": "recWV4PQETebM916y",
       "createdTime": "2025-11-23T17:15:09.000Z",
       "Title": "Daily Coordination Meeting - North America Region",
-      "Organizer/Chair": "Oceania Region \n",
-      "Room ": "Saiga A. (120)",
+      "Organizer/Chair": "North America Region \n",
+      "Room ": "Markhor S. (70)",
       "start date": "24/11/2025",
       "Start Time - sort": "2025-11-24T06:00:00.000Z",
       "End": "09:00",
@@ -1454,7 +1454,7 @@
       ],
       "Start date - Panamanian date": "24/11/2025",
       "Start time - Panamanian Time": "07:00",
-      "Last Modified": "2025-11-23T17:15:23.000Z"
+      "Last Modified": "2025-11-23T17:19:26.000Z"
     },
     {
       "id": "recWaj63HXyJxbHsI",
@@ -3631,7 +3631,7 @@
       "id": "recIcMLHBOjo5NmFk",
       "createdTime": "2025-11-23T17:13:54.000Z",
       "Title": "Daily Coordination Meeting - Central and South America and the Caribbean\n copy",
-      "Organizer/Chair": "Oceania Region \n",
+      "Organizer/Chair": "CSAC Region \n",
       "Room ": "Saiga A. (120)",
       "start date": "24/11/2025",
       "Start Time - sort": "2025-11-24T06:00:00.000Z",
@@ -3643,7 +3643,7 @@
       ],
       "Start date - Panamanian date": "24/11/2025",
       "Start time - Panamanian Time": "07:00",
-      "Last Modified": "2025-11-23T17:15:01.000Z"
+      "Last Modified": "2025-11-23T17:19:08.000Z"
     },
     {
       "id": "recImr5DPZzFNHceZ",
@@ -4397,8 +4397,8 @@
       "id": "recWV4PQETebM916y",
       "createdTime": "2025-11-23T17:15:09.000Z",
       "Title": "Daily Coordination Meeting - North America Region",
-      "Organizer/Chair": "Oceania Region \n",
-      "Room ": "Saiga A. (120)",
+      "Organizer/Chair": "North America Region \n",
+      "Room ": "Markhor S. (70)",
       "start date": "24/11/2025",
       "Start Time - sort": "2025-11-24T06:00:00.000Z",
       "End": "09:00",
@@ -4409,7 +4409,7 @@
       ],
       "Start date - Panamanian date": "24/11/2025",
       "Start time - Panamanian Time": "07:00",
-      "Last Modified": "2025-11-23T17:15:23.000Z"
+      "Last Modified": "2025-11-23T17:19:26.000Z"
     },
     {
       "id": "recWaj63HXyJxbHsI",
