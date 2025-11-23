@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2025-11-23T08:45:33.967Z",
+  "exportedAt": "2025-11-23T08:46:33.973Z",
   "total": 165,
   "records": [
     {
@@ -1572,11 +1572,14 @@
       "start date": "23/11/2025",
       "Start Time - sort": "2025-11-23T13:00:00.000Z",
       "End": "14:00",
-      "Description of the side event": "A",
+      "Description of the side event": "AGN Bureau Meeting ",
       "Start": "14:00",
+      "Type": [
+        "Other"
+      ],
       "Start date - Panamanian date": "23/11/2025",
       "Start time - Panamanian Time": "14:00",
-      "Last Modified": "2025-11-23T08:45:33.000Z"
+      "Last Modified": "2025-11-23T08:46:33.000Z"
     },
     {
       "id": "recZDUGmiVB9oa2Zq",
