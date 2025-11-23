@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2025-11-23T17:04:33.846Z",
+  "exportedAt": "2025-11-23T17:05:33.899Z",
   "total": 166,
   "records": [
     {
@@ -2220,12 +2220,16 @@
       "Organizer/Chair": "Oceania Region \n",
       "Room ": "D. Monitor (32)",
       "start date": "24/11/2025",
-      "Start Time - sort": "2025-11-24T06:30:00.000Z",
+      "Start Time - sort": "2025-11-24T06:00:00.000Z",
       "End": "09:00",
-      "Start": "07:30",
+      "Description of the side event": "Daily Coordination Meeting - Oceania",
+      "Start": "07:00",
+      "Type": [
+        "Regional mtg"
+      ],
       "Start date - Panamanian date": "24/11/2025",
-      "Start time - Panamanian Time": "07:30",
-      "Last Modified": "2025-11-23T17:04:32.000Z"
+      "Start time - Panamanian Time": "07:00",
+      "Last Modified": "2025-11-23T17:04:54.000Z"
     },
     {
       "id": "reck4EtFrGNqlLavJ",
