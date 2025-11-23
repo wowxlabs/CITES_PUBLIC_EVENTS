@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2025-11-23T18:29:33.985Z",
+  "exportedAt": "2025-11-23T18:30:34.017Z",
   "total": 170,
   "records": [
     {
@@ -2200,20 +2200,16 @@
     {
       "id": "reciBAU6MmNG0GQ9U",
       "createdTime": "2025-11-23T18:29:18.000Z",
-      "Title": "Party - Closed Meeting ",
-      "start date": {
-        "error": "#ERROR!"
-      },
-      "Start": {
-        "error": "#ERROR!"
-      },
-      "Start date - Panamanian date": {
-        "error": "#ERROR!"
-      },
-      "Start time - Panamanian Time": {
-        "error": "#ERROR!"
-      },
-      "Last Modified": "2025-11-23T18:29:32.000Z"
+      "Title": "United Kingdom - Closed Meeting ",
+      "Organizer/Chair": "United Kingdom - Closed Meeting ",
+      "Room ": "D. Monitor (32)",
+      "start date": "24/11/2025",
+      "Start Time - sort": "2025-11-24T12:30:00.000Z",
+      "End": "14:30",
+      "Start": "13:30",
+      "Start date - Panamanian date": "24/11/2025",
+      "Start time - Panamanian Time": "13:30",
+      "Last Modified": "2025-11-23T18:30:28.000Z"
     },
     {
       "id": "reciQOJ8BgPwOKjNo",
