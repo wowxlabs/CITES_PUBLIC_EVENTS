@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2025-11-23T17:19:35.009Z",
+  "exportedAt": "2025-11-23T17:20:35.105Z",
   "total": 338,
   "records": [
     {
@@ -1215,6 +1215,8 @@
     {
       "id": "recSrGaGJZoZfluoD",
       "createdTime": "2025-11-23T17:15:03.000Z",
+      "Title": "Daily Coordination Meeting - Africa Region",
+      "Organizer/Chair": "Africa Region ",
       "start date": {
         "error": "#ERROR!"
       },
@@ -1226,7 +1228,8 @@
       },
       "Start time - Panamanian Time": {
         "error": "#ERROR!"
-      }
+      },
+      "Last Modified": "2025-11-23T17:20:08.000Z"
     },
     {
       "id": "recSuknYhadmDsKlp",
@@ -1447,14 +1450,14 @@
       "start date": "24/11/2025",
       "Start Time - sort": "2025-11-24T06:00:00.000Z",
       "End": "09:00",
-      "Description of the side event": "Daily Coordination Meeting - CSAC",
+      "Description of the side event": "Daily Coordination Meeting - North America",
       "Start": "07:00",
       "Type": [
         "Regional mtg"
       ],
       "Start date - Panamanian date": "24/11/2025",
       "Start time - Panamanian Time": "07:00",
-      "Last Modified": "2025-11-23T17:19:26.000Z"
+      "Last Modified": "2025-11-23T17:19:41.000Z"
     },
     {
       "id": "recWaj63HXyJxbHsI",
@@ -4170,6 +4173,8 @@
     {
       "id": "recSrGaGJZoZfluoD",
       "createdTime": "2025-11-23T17:15:03.000Z",
+      "Title": "Daily Coordination Meeting - Africa Region",
+      "Organizer/Chair": "Africa Region ",
       "start date": {
         "error": "#ERROR!"
       },
@@ -4181,7 +4186,8 @@
       },
       "Start time - Panamanian Time": {
         "error": "#ERROR!"
-      }
+      },
+      "Last Modified": "2025-11-23T17:20:08.000Z"
     },
     {
       "id": "recSuknYhadmDsKlp",
@@ -4402,14 +4408,14 @@
       "start date": "24/11/2025",
       "Start Time - sort": "2025-11-24T06:00:00.000Z",
       "End": "09:00",
-      "Description of the side event": "Daily Coordination Meeting - CSAC",
+      "Description of the side event": "Daily Coordination Meeting - North America",
       "Start": "07:00",
       "Type": [
         "Regional mtg"
       ],
       "Start date - Panamanian date": "24/11/2025",
       "Start time - Panamanian Time": "07:00",
-      "Last Modified": "2025-11-23T17:19:26.000Z"
+      "Last Modified": "2025-11-23T17:19:41.000Z"
     },
     {
       "id": "recWaj63HXyJxbHsI",
