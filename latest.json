@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2025-11-23T12:17:33.953Z",
+  "exportedAt": "2025-11-23T12:19:33.878Z",
   "total": 166,
   "records": [
     {
@@ -466,19 +466,16 @@
       "Title": "CITES Secretariat - Closed meeting ",
       "Organizer/Chair": "CITES Secretariat ",
       "Room ": "D. Monitor (32)",
-      "start date": {
-        "error": "#ERROR!"
-      },
-      "Start": {
-        "error": "#ERROR!"
-      },
-      "Start date - Panamanian date": {
-        "error": "#ERROR!"
-      },
-      "Start time - Panamanian Time": {
-        "error": "#ERROR!"
-      },
-      "Last Modified": "2025-11-23T12:16:48.000Z"
+      "start date": "23/11/2025",
+      "Start Time - sort": "2025-11-23T16:30:00.000Z",
+      "End": "19:00",
+      "Start": "17:30",
+      "Type": [
+        "Other"
+      ],
+      "Start date - Panamanian date": "23/11/2025",
+      "Start time - Panamanian Time": "17:30",
+      "Last Modified": "2025-11-23T12:18:59.000Z"
     },
     {
       "id": "recEC1IgyBr5Wdmjs",
