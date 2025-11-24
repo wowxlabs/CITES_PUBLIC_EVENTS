@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2025-11-24T16:31:34.317Z",
+  "exportedAt": "2025-11-24T16:32:34.315Z",
   "total": 221,
   "records": [
     {
@@ -1784,7 +1784,8 @@
     {
       "id": "recVAxH4fiVdi3gqu",
       "createdTime": "2025-11-24T16:31:27.000Z",
-      "Title": "Close",
+      "Title": "Closed Meeting - United Kingdom ",
+      "Organizer/Chair": "Closed Meeting - United Kingdom ",
       "start date": {
         "error": "#ERROR!"
       },
@@ -1797,7 +1798,7 @@
       "Start time - Panamanian Time": {
         "error": "#ERROR!"
       },
-      "Last Modified": "2025-11-24T16:31:31.000Z"
+      "Last Modified": "2025-11-24T16:31:39.000Z"
     },
     {
       "id": "recVWDG5Glg2Rj1Ro",
