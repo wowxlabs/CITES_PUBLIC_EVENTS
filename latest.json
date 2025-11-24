@@ -1,6 +1,6 @@
 {
-  "exportedAt": "2025-11-24T15:17:34.385Z",
-  "total": 220,
+  "exportedAt": "2025-11-24T16:31:34.317Z",
+  "total": 221,
   "records": [
     {
       "id": "rec04J6bNhLOTj4WH",
@@ -1780,6 +1780,24 @@
       "Start date - Panamanian date": "29/11/2025",
       "Start time - Panamanian Time": "17:15",
       "Last Modified": "2025-11-19T21:15:32.000Z"
+    },
+    {
+      "id": "recVAxH4fiVdi3gqu",
+      "createdTime": "2025-11-24T16:31:27.000Z",
+      "Title": "Close",
+      "start date": {
+        "error": "#ERROR!"
+      },
+      "Start": {
+        "error": "#ERROR!"
+      },
+      "Start date - Panamanian date": {
+        "error": "#ERROR!"
+      },
+      "Start time - Panamanian Time": {
+        "error": "#ERROR!"
+      },
+      "Last Modified": "2025-11-24T16:31:31.000Z"
     },
     {
       "id": "recVWDG5Glg2Rj1Ro",
