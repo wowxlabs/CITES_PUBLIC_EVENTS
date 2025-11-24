@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2025-11-24T08:00:34.160Z",
+  "exportedAt": "2025-11-24T08:01:33.983Z",
   "total": 177,
   "records": [
     {
@@ -2304,15 +2304,19 @@
     {
       "id": "recj7gDYJB1AGEYYf",
       "createdTime": "2025-11-24T07:57:12.000Z",
-      "Title": "Qatar - Africa (NIAP)",
+      "Title": "Qatar - African Parties (NIAP)",
       "Organizer/Chair": "Qatar",
       "Room ": "Manul (40)",
       "start date": "25/11/2025",
       "Start Time - sort": "2025-11-25T07:00:00.000Z",
+      "End": "09:00",
       "Start": "08:00",
+      "Type": [
+        "Other"
+      ],
       "Start date - Panamanian date": "25/11/2025",
       "Start time - Panamanian Time": "08:00",
-      "Last Modified": "2025-11-24T08:00:29.000Z"
+      "Last Modified": "2025-11-24T08:01:11.000Z"
     },
     {
       "id": "recjGiKVw3dTcf6om",
