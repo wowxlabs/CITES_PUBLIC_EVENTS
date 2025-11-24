@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2025-11-24T15:10:34.296Z",
+  "exportedAt": "2025-11-24T15:12:34.214Z",
   "total": 220,
   "records": [
     {
@@ -2352,19 +2352,13 @@
       "createdTime": "2025-11-24T09:18:54.000Z",
       "Title": "Closed Meeting - Zimbabwe and Ramsar Convention on Wetlands",
       "Organizer/Chair": "Closed Meeting - Zimbabwe and Ramsar Convention on Wetlands",
-      "start date": {
-        "error": "#ERROR!"
-      },
-      "Start": {
-        "error": "#ERROR!"
-      },
-      "Start date - Panamanian date": {
-        "error": "#ERROR!"
-      },
-      "Start time - Panamanian Time": {
-        "error": "#ERROR!"
-      },
-      "Last Modified": "2025-11-24T15:10:30.000Z"
+      "Room ": "Manul (40)",
+      "start date": "25/11/2025",
+      "Start Time - sort": "2025-11-25T09:00:00.000Z",
+      "Start": "10:00",
+      "Start date - Panamanian date": "25/11/2025",
+      "Start time - Panamanian Time": "10:00",
+      "Last Modified": "2025-11-24T15:12:29.000Z"
     },
     {
       "id": "recd6BuR714Y8p78h",
