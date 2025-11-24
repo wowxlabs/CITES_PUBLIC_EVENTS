@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2025-11-24T07:11:33.823Z",
+  "exportedAt": "2025-11-24T07:12:33.880Z",
   "total": 174,
   "records": [
     {
@@ -1742,13 +1742,20 @@
     {
       "id": "recZbXHXwIQqHlHKl",
       "createdTime": "2025-11-24T07:11:01.000Z",
-      "Title": "Clos",
+      "Title": "Closed meeting - Korea ",
+      "Organizer/Chair": "Republic of Korea \n",
+      "Room ": "Manul (40)",
       "start date": "24/11/2025",
-      "Start Time - sort": "2025-11-23T23:00:00.000Z",
-      "Start": "00:00",
+      "Start Time - sort": "2025-11-24T12:00:00.000Z",
+      "End": "14:00",
+      "Description of the side event": "Closed meeting ",
+      "Start": "13:00",
+      "Type": [
+        "Other"
+      ],
       "Start date - Panamanian date": "24/11/2025",
-      "Start time - Panamanian Time": "00:00",
-      "Last Modified": "2025-11-24T07:11:33.000Z"
+      "Start time - Panamanian Time": "13:00",
+      "Last Modified": "2025-11-24T07:12:26.000Z"
     },
     {
       "id": "recZqcRkg9sakfDau",
