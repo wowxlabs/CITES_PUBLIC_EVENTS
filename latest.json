@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2025-11-24T08:23:33.827Z",
+  "exportedAt": "2025-11-24T08:24:33.805Z",
   "total": 177,
   "records": [
     {
@@ -2602,19 +2602,15 @@
       "createdTime": "2025-11-24T07:52:36.000Z",
       "Title": "Bilateral Meeting - South Korea and Brazil ",
       "Organizer/Chair": "South Korea",
-      "start date": {
-        "error": "#ERROR!"
-      },
-      "Start": {
-        "error": "#ERROR!"
-      },
-      "Start date - Panamanian date": {
-        "error": "#ERROR!"
-      },
-      "Start time - Panamanian Time": {
-        "error": "#ERROR!"
-      },
-      "Last Modified": "2025-11-24T08:23:32.000Z"
+      "Room ": "G.Bustard (40)",
+      "start date": "24/11/2025",
+      "Start Time - sort": "2025-11-24T16:30:00.000Z",
+      "End": "18:00",
+      "Description of the side event": "Close",
+      "Start": "17:30",
+      "Start date - Panamanian date": "24/11/2025",
+      "Start time - Panamanian Time": "17:30",
+      "Last Modified": "2025-11-24T08:24:32.000Z"
     },
     {
       "id": "recpCQonbZjV0w8er",
