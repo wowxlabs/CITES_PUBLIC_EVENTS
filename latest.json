@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2025-11-24T10:09:33.899Z",
+  "exportedAt": "2025-11-24T10:11:33.919Z",
   "total": 177,
   "records": [
     {
@@ -2585,15 +2585,15 @@
       "Organizer/Chair": "CoP20 Bureau",
       "Room ": "L. Orchid",
       "start date": "24/11/2025",
-      "Start Time - sort": "2025-11-24T16:00:00.000Z",
-      "End": "17:30",
-      "Start": "17:00",
+      "Start Time - sort": "2025-11-24T17:00:00.000Z",
+      "End": "18:30",
+      "Start": "18:00",
       "Type": [
         "Other"
       ],
       "Start date - Panamanian date": "24/11/2025",
-      "Start time - Panamanian Time": "17:00",
-      "Last Modified": "2025-11-19T21:15:32.000Z"
+      "Start time - Panamanian Time": "18:00",
+      "Last Modified": "2025-11-24T10:10:45.000Z"
     },
     {
       "id": "recouRS016or51q8X",
