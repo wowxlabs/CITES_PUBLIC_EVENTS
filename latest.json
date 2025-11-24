@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2025-11-24T08:24:33.805Z",
+  "exportedAt": "2025-11-24T08:25:33.973Z",
   "total": 177,
   "records": [
     {
@@ -2606,11 +2606,14 @@
       "start date": "24/11/2025",
       "Start Time - sort": "2025-11-24T16:30:00.000Z",
       "End": "18:00",
-      "Description of the side event": "Close",
+      "Description of the side event": "Closed Meeting ",
       "Start": "17:30",
+      "Type": [
+        "Other"
+      ],
       "Start date - Panamanian date": "24/11/2025",
       "Start time - Panamanian Time": "17:30",
-      "Last Modified": "2025-11-24T08:24:32.000Z"
+      "Last Modified": "2025-11-24T08:24:35.000Z"
     },
     {
       "id": "recpCQonbZjV0w8er",
