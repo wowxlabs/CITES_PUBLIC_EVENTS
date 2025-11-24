@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2025-11-24T07:51:33.768Z",
+  "exportedAt": "2025-11-24T07:52:33.858Z",
   "total": 176,
   "records": [
     {
@@ -2819,11 +2819,16 @@
       "Organizer/Chair": "Closed Meeting ",
       "Room ": "G.Bustard (40)",
       "start date": "24/11/2025",
-      "Start Time - sort": "2025-11-24T07:51:00.000Z",
-      "Start": "08:51",
+      "Start Time - sort": "2025-11-24T13:30:00.000Z",
+      "End": "16:00",
+      "Description of the side event": "Closed Meeting ",
+      "Start": "14:30",
+      "Type": [
+        "Other"
+      ],
       "Start date - Panamanian date": "24/11/2025",
-      "Start time - Panamanian Time": "08:51",
-      "Last Modified": "2025-11-24T07:51:29.000Z"
+      "Start time - Panamanian Time": "14:30",
+      "Last Modified": "2025-11-24T07:52:27.000Z"
     },
     {
       "id": "recuChLwohZMtypw0",
