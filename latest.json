@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2025-11-24T08:20:33.764Z",
+  "exportedAt": "2025-11-24T08:23:33.827Z",
   "total": 177,
   "records": [
     {
@@ -2600,6 +2600,8 @@
     {
       "id": "recoxVhl39iIchpY2",
       "createdTime": "2025-11-24T07:52:36.000Z",
+      "Title": "Bilateral Meeting - South Korea and Brazil ",
+      "Organizer/Chair": "South Korea",
       "start date": {
         "error": "#ERROR!"
       },
@@ -2611,7 +2613,8 @@
       },
       "Start time - Panamanian Time": {
         "error": "#ERROR!"
-      }
+      },
+      "Last Modified": "2025-11-24T08:23:32.000Z"
     },
     {
       "id": "recpCQonbZjV0w8er",
