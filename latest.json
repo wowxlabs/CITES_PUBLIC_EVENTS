@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2025-11-24T07:49:33.790Z",
+  "exportedAt": "2025-11-24T07:51:33.768Z",
   "total": 176,
   "records": [
     {
@@ -2816,19 +2816,14 @@
       "id": "recuC3DLvgNPc1GBf",
       "createdTime": "2025-11-24T07:12:59.000Z",
       "Title": "Bilateral Meeting - China and South Korea",
-      "start date": {
-        "error": "#ERROR!"
-      },
-      "Start": {
-        "error": "#ERROR!"
-      },
-      "Start date - Panamanian date": {
-        "error": "#ERROR!"
-      },
-      "Start time - Panamanian Time": {
-        "error": "#ERROR!"
-      },
-      "Last Modified": "2025-11-24T07:49:04.000Z"
+      "Organizer/Chair": "Closed Meeting ",
+      "Room ": "G.Bustard (40)",
+      "start date": "24/11/2025",
+      "Start Time - sort": "2025-11-24T07:51:00.000Z",
+      "Start": "08:51",
+      "Start date - Panamanian date": "24/11/2025",
+      "Start time - Panamanian Time": "08:51",
+      "Last Modified": "2025-11-24T07:51:29.000Z"
     },
     {
       "id": "recuChLwohZMtypw0",
