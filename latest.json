@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2025-11-25T04:11:34.384Z",
+  "exportedAt": "2025-11-25T04:12:34.289Z",
   "total": 222,
   "records": [
     {
@@ -359,19 +359,14 @@
       "id": "rec6d8qjx09F6OKEo",
       "createdTime": "2025-11-25T04:10:29.000Z",
       "Title": "Closed Meeting - Zimbabwe ",
-      "start date": {
-        "error": "#ERROR!"
-      },
-      "Start": {
-        "error": "#ERROR!"
-      },
-      "Start date - Panamanian date": {
-        "error": "#ERROR!"
-      },
-      "Start time - Panamanian Time": {
-        "error": "#ERROR!"
-      },
-      "Last Modified": "2025-11-25T04:10:39.000Z"
+      "Organizer/Chair": "Closed Meeting - Zimbabwe ",
+      "Room ": "Manul (40)",
+      "start date": "25/11/2025",
+      "Start Time - sort": "2025-11-25T04:12:00.000Z",
+      "Start": "05:12",
+      "Start date - Panamanian date": "25/11/2025",
+      "Start time - Panamanian Time": "05:12",
+      "Last Modified": "2025-11-25T04:12:29.000Z"
     },
     {
       "id": "rec8EKG7gEaWGr4OH",
