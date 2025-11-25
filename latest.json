@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2025-11-25T07:32:34.415Z",
+  "exportedAt": "2025-11-25T07:36:34.377Z",
   "total": 223,
   "records": [
     {
@@ -2649,20 +2649,15 @@
     {
       "id": "recgWzdbBELxdccnT",
       "createdTime": "2025-11-25T07:29:16.000Z",
-      "Title": "Enhancing the Work and Efficiency of the Convention Through ",
-      "start date": {
-        "error": "#ERROR!"
-      },
-      "Start": {
-        "error": "#ERROR!"
-      },
-      "Start date - Panamanian date": {
-        "error": "#ERROR!"
-      },
-      "Start time - Panamanian Time": {
-        "error": "#ERROR!"
-      },
-      "Last Modified": "2025-11-25T07:32:27.000Z"
+      "Title": "Enhancing the Work and Efficiency of the Convention Through the Permanent committees ",
+      "Organizer/Chair": "Working Group - Chair/New Zealand ",
+      "Room ": "B.Stork (70)",
+      "start date": "26/11/2025",
+      "Start Time - sort": "2025-11-26T07:36:00.000Z",
+      "Start": "08:36",
+      "Start date - Panamanian date": "26/11/2025",
+      "Start time - Panamanian Time": "08:36",
+      "Last Modified": "2025-11-25T07:36:32.000Z"
     },
     {
       "id": "rech4T98PxglyOyLE",
