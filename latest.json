@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2025-11-25T10:33:35.777Z",
+  "exportedAt": "2025-11-25T10:34:35.875Z",
   "total": 460,
   "records": [
     {
@@ -395,7 +395,7 @@
       "createdTime": "2025-11-14T17:11:14.000Z",
       "Title": "Bureau Meeting\n",
       "Organizer/Chair": "CoP20 Bureau",
-      "Room ": "C.A.Tortoise (40)",
+      "Room ": "L. Orchid",
       "start date": "25/11/2025",
       "Start Time - sort": "2025-11-25T16:00:00.000Z",
       "End": "17:30",
@@ -405,7 +405,7 @@
       ],
       "Start date - Panamanian date": "25/11/2025",
       "Start time - Panamanian Time": "17:00",
-      "Last Modified": "2025-11-25T10:33:25.000Z"
+      "Last Modified": "2025-11-25T10:33:43.000Z"
     },
     {
       "id": "rec8Wy2xIsNvYCl0a",
@@ -1874,7 +1874,7 @@
       "createdTime": "2025-11-25T09:15:24.000Z",
       "Title": "Credentials Committee ",
       "Organizer/Chair": "Credentials Committee",
-      "Room ": "L. Orchid",
+      "Room ": "C.A.Tortoise (40)",
       "start date": "25/11/2025",
       "Start Time - sort": "2025-11-25T16:00:00.000Z",
       "End": "18:00",
@@ -1884,7 +1884,7 @@
       ],
       "Start date - Panamanian date": "25/11/2025",
       "Start time - Panamanian Time": "17:00",
-      "Last Modified": "2025-11-25T10:33:22.000Z"
+      "Last Modified": "2025-11-25T10:33:45.000Z"
     },
     {
       "id": "recWLSe4v3SWuFvAX",
@@ -4445,7 +4445,7 @@
       "createdTime": "2025-11-14T17:11:14.000Z",
       "Title": "Bureau Meeting\n",
       "Organizer/Chair": "CoP20 Bureau",
-      "Room ": "C.A.Tortoise (40)",
+      "Room ": "L. Orchid",
       "start date": "25/11/2025",
       "Start Time - sort": "2025-11-25T16:00:00.000Z",
       "End": "17:30",
@@ -4455,7 +4455,7 @@
       ],
       "Start date - Panamanian date": "25/11/2025",
       "Start time - Panamanian Time": "17:00",
-      "Last Modified": "2025-11-25T10:33:25.000Z"
+      "Last Modified": "2025-11-25T10:33:43.000Z"
     },
     {
       "id": "rec8Wy2xIsNvYCl0a",
@@ -5924,7 +5924,7 @@
       "createdTime": "2025-11-25T09:15:24.000Z",
       "Title": "Credentials Committee ",
       "Organizer/Chair": "Credentials Committee",
-      "Room ": "L. Orchid",
+      "Room ": "C.A.Tortoise (40)",
       "start date": "25/11/2025",
       "Start Time - sort": "2025-11-25T16:00:00.000Z",
       "End": "18:00",
@@ -5934,7 +5934,7 @@
       ],
       "Start date - Panamanian date": "25/11/2025",
       "Start time - Panamanian Time": "17:00",
-      "Last Modified": "2025-11-25T10:33:22.000Z"
+      "Last Modified": "2025-11-25T10:33:45.000Z"
     },
     {
       "id": "recWLSe4v3SWuFvAX",
