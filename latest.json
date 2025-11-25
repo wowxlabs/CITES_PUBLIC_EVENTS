@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2025-11-25T16:36:34.356Z",
+  "exportedAt": "2025-11-25T16:37:34.360Z",
   "total": 238,
   "records": [
     {
@@ -3408,14 +3408,19 @@
       "id": "recotbO7cqNqhym55",
       "createdTime": "2025-11-25T16:36:09.000Z",
       "Title": "Working Group on Boswellia species",
-      "Organizer/Chair": "Working Group on Boswellia species",
+      "Organizer/Chair": "Working Group on Boswellia species - Chair/Switzerland",
       "Room ": "Manul (40)",
       "start date": "26/11/2025",
       "Start Time - sort": "2025-11-26T11:00:00.000Z",
+      "End": "13.45",
+      "Description of the side event": "Working Group on Boswellia species",
       "Start": "12:00",
+      "Type": [
+        "WG"
+      ],
       "Start date - Panamanian date": "26/11/2025",
       "Start time - Panamanian Time": "12:00",
-      "Last Modified": "2025-11-25T16:36:28.000Z"
+      "Last Modified": "2025-11-25T16:37:29.000Z"
     },
     {
       "id": "recouRS016or51q8X",
