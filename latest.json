@@ -1,6 +1,6 @@
 {
-  "exportedAt": "2025-11-25T10:44:34.194Z",
-  "total": 230,
+  "exportedAt": "2025-11-25T11:37:34.301Z",
+  "total": 231,
   "records": [
     {
       "id": "rec04J6bNhLOTj4WH",
@@ -371,6 +371,26 @@
       "Start date - Panamanian date": "26/11/2025",
       "Start time - Panamanian Time": "12:15",
       "Last Modified": "2025-11-21T09:14:59.000Z"
+    },
+    {
+      "id": "rec68M82c4jG2VogM",
+      "createdTime": "2025-11-25T11:36:32.000Z",
+      "Title": "Bilateral Meeting - Republic of Korea - UZB ",
+      "Organizer/Chair": "Bilateral Meeting - Republic of Korea - UZB ",
+      "start date": {
+        "error": "#ERROR!"
+      },
+      "Description of the side event": "Bilateral Meeting - Republic of Korea - UZB ",
+      "Start": {
+        "error": "#ERROR!"
+      },
+      "Start date - Panamanian date": {
+        "error": "#ERROR!"
+      },
+      "Start time - Panamanian Time": {
+        "error": "#ERROR!"
+      },
+      "Last Modified": "2025-11-25T11:37:22.000Z"
     },
     {
       "id": "rec6d8qjx09F6OKEo",
