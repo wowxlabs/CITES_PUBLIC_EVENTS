@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2025-11-25T10:00:34.472Z",
+  "exportedAt": "2025-11-25T10:27:34.189Z",
   "total": 230,
   "records": [
     {
@@ -3164,11 +3164,13 @@
       "Organizer/Chair": "Finance and Budget Working Group ",
       "Room ": "S. Leopard (32)",
       "start date": "26/11/2025",
-      "Start Time - sort": "2025-11-25T23:00:00.000Z",
-      "Start": "00:00",
+      "Start Time - sort": "2025-11-26T11:00:00.000Z",
+      "End": "14:00",
+      "Description of the side event": "Finance and Budget Working Group ",
+      "Start": "12:00",
       "Start date - Panamanian date": "26/11/2025",
-      "Start time - Panamanian Time": "00:00",
-      "Last Modified": "2025-11-25T09:58:53.000Z"
+      "Start time - Panamanian Time": "12:00",
+      "Last Modified": "2025-11-25T10:27:32.000Z"
     },
     {
       "id": "recn1MMcaAYpcVFoz",
