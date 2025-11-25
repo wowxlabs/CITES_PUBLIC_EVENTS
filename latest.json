@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2025-11-25T08:16:34.410Z",
+  "exportedAt": "2025-11-25T08:17:34.334Z",
   "total": 226,
   "records": [
     {
@@ -429,7 +429,8 @@
     {
       "id": "rec9I0YuQ2g69fsu3",
       "createdTime": "2025-11-25T08:15:55.000Z",
-      "Title": "MeetingUnited States Delegation - ",
+      "Title": "Meeting - United States Delegation - NGO Briefings ",
+      "Organizer/Chair": "Meeting - United States Delegation - NGO Briefings ",
       "start date": {
         "error": "#ERROR!"
       },
@@ -442,7 +443,7 @@
       "Start time - Panamanian Time": {
         "error": "#ERROR!"
       },
-      "Last Modified": "2025-11-25T08:16:25.000Z"
+      "Last Modified": "2025-11-25T08:16:50.000Z"
     },
     {
       "id": "rec9WR39W29qS7d4h",
