@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2025-11-25T14:51:34.211Z",
+  "exportedAt": "2025-11-25T14:52:34.394Z",
   "total": 237,
   "records": [
     {
@@ -1667,10 +1667,15 @@
       "Room ": "G.Bustard (40)",
       "start date": "26/11/2025",
       "Start Time - sort": "2025-11-26T08:00:00.000Z",
+      "End": "10.00",
+      "Description of the side event": "Bilateral meeting - South Korea and Kazakhstan ",
       "Start": "09:00",
+      "Type": [
+        "Other"
+      ],
       "Start date - Panamanian date": "26/11/2025",
       "Start time - Panamanian Time": "09:00",
-      "Last Modified": "2025-11-25T14:50:50.000Z"
+      "Last Modified": "2025-11-25T14:51:44.000Z"
     },
     {
       "id": "recSrGaGJZoZfluoD",
