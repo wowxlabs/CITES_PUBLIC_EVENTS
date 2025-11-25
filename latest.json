@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2025-11-25T14:50:34.260Z",
+  "exportedAt": "2025-11-25T14:51:34.211Z",
   "total": 237,
   "records": [
     {
@@ -1663,19 +1663,14 @@
       "id": "recRwQKaOu7YSiYZg",
       "createdTime": "2025-11-25T14:49:47.000Z",
       "Title": "Bilateral meeting - South Korea and Kazakhstan ",
-      "start date": {
-        "error": "#ERROR!"
-      },
-      "Start": {
-        "error": "#ERROR!"
-      },
-      "Start date - Panamanian date": {
-        "error": "#ERROR!"
-      },
-      "Start time - Panamanian Time": {
-        "error": "#ERROR!"
-      },
-      "Last Modified": "2025-11-25T14:50:32.000Z"
+      "Organizer/Chair": "Bilateral meeting - South Korea and Kazakhstan ",
+      "Room ": "G.Bustard (40)",
+      "start date": "26/11/2025",
+      "Start Time - sort": "2025-11-26T08:00:00.000Z",
+      "Start": "09:00",
+      "Start date - Panamanian date": "26/11/2025",
+      "Start time - Panamanian Time": "09:00",
+      "Last Modified": "2025-11-25T14:50:50.000Z"
     },
     {
       "id": "recSrGaGJZoZfluoD",
