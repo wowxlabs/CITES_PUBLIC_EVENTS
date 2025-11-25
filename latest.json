@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2025-11-25T04:13:34.376Z",
+  "exportedAt": "2025-11-25T05:05:34.230Z",
   "total": 222,
   "records": [
     {
@@ -2391,6 +2391,7 @@
       "Room ": "Manul (40)",
       "start date": "25/11/2025",
       "Start Time - sort": "2025-11-25T09:00:00.000Z",
+      "End": "10.30",
       "Description of the side event": "Closed Meeting",
       "Start": "10:00",
       "Type": [
@@ -2398,7 +2399,7 @@
       ],
       "Start date - Panamanian date": "25/11/2025",
       "Start time - Panamanian Time": "10:00",
-      "Last Modified": "2025-11-24T16:37:27.000Z"
+      "Last Modified": "2025-11-25T05:05:10.000Z"
     },
     {
       "id": "recd6BuR714Y8p78h",
