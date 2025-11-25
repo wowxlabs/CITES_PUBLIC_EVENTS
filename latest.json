@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2025-11-25T09:15:34.241Z",
+  "exportedAt": "2025-11-25T09:16:34.151Z",
   "total": 229,
   "records": [
     {
@@ -1876,14 +1876,15 @@
       "Organizer/Chair": "Credentials Committee",
       "Room ": "L. Orchid",
       "start date": "25/11/2025",
-      "Start Time - sort": "2025-11-25T11:00:00.000Z",
-      "Start": "12:00",
+      "Start Time - sort": "2025-11-25T16:00:00.000Z",
+      "End": "18:00",
+      "Start": "17:00",
       "Type": [
         "Other"
       ],
       "Start date - Panamanian date": "25/11/2025",
-      "Start time - Panamanian Time": "12:00",
-      "Last Modified": "2025-11-25T09:15:33.000Z"
+      "Start time - Panamanian Time": "17:00",
+      "Last Modified": "2025-11-25T09:15:52.000Z"
     },
     {
       "id": "recWLSe4v3SWuFvAX",
