@@ -1,6 +1,6 @@
 {
-  "exportedAt": "2025-11-25T14:17:34.308Z",
-  "total": 236,
+  "exportedAt": "2025-11-25T14:50:34.260Z",
+  "total": 237,
   "records": [
     {
       "id": "rec04J6bNhLOTj4WH",
@@ -1658,6 +1658,24 @@
       "Start date - Panamanian date": "2/12/2025",
       "Start time - Panamanian Time": "12:15",
       "Last Modified": "2025-11-19T21:15:32.000Z"
+    },
+    {
+      "id": "recRwQKaOu7YSiYZg",
+      "createdTime": "2025-11-25T14:49:47.000Z",
+      "Title": "Bilateral meeting - South Korea and Kazakhstan ",
+      "start date": {
+        "error": "#ERROR!"
+      },
+      "Start": {
+        "error": "#ERROR!"
+      },
+      "Start date - Panamanian date": {
+        "error": "#ERROR!"
+      },
+      "Start time - Panamanian Time": {
+        "error": "#ERROR!"
+      },
+      "Last Modified": "2025-11-25T14:50:32.000Z"
     },
     {
       "id": "recSrGaGJZoZfluoD",
