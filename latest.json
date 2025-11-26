@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2025-11-26T15:06:34.273Z",
+  "exportedAt": "2025-11-26T15:15:34.296Z",
   "total": 243,
   "records": [
     {
@@ -3535,19 +3535,18 @@
       "createdTime": "2025-11-26T15:05:01.000Z",
       "Title": "Working Group on Paubrasilia echinata (Agenda Item 97 & Prop 46)",
       "Organizer/Chair": "Working Group - Chair/Canada",
-      "start date": {
-        "error": "#ERROR!"
-      },
-      "Start": {
-        "error": "#ERROR!"
-      },
-      "Start date - Panamanian date": {
-        "error": "#ERROR!"
-      },
-      "Start time - Panamanian Time": {
-        "error": "#ERROR!"
-      },
-      "Last Modified": "2025-11-26T15:05:45.000Z"
+      "Room ": "B.Stork (70)",
+      "start date": "27/11/2025",
+      "Start Time - sort": "2025-11-27T11:15:00.000Z",
+      "End": "13:45",
+      "Description of the side event": "Working Group on Paubrasilia echinata (Agenda Item 97 & Prop 46)",
+      "Start": "12:15",
+      "Type": [
+        "WG"
+      ],
+      "Start date - Panamanian date": "27/11/2025",
+      "Start time - Panamanian Time": "12:15",
+      "Last Modified": "2025-11-26T15:15:13.000Z"
     },
     {
       "id": "recpOQPAvyuVPtfH3",
