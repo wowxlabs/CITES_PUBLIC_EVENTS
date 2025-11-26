@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2025-11-26T05:44:34.207Z",
+  "exportedAt": "2025-11-26T06:21:34.406Z",
   "total": 242,
   "records": [
     {
@@ -1557,16 +1557,6 @@
       "Last Modified": "2025-11-19T21:15:32.000Z"
     },
     {
-      "id": "recQ9ssWuy7IYiLrJ",
-      "createdTime": "2025-11-26T05:35:08.000Z",
-      "start date": "29/11/2025",
-      "Start Time - sort": "2025-11-29T10:00:00.000Z",
-      "Start": "11:00",
-      "Start date - Panamanian date": "29/11/2025",
-      "Start time - Panamanian Time": "11:00",
-      "Last Modified": "2025-11-26T05:44:17.000Z"
-    },
-    {
       "id": "recQK3iGxRtYaLxke",
       "createdTime": "2025-10-31T16:09:36.000Z",
       "Title": "Committee II",
@@ -2163,6 +2153,16 @@
       "Start date - Panamanian date": "29/11/2025",
       "Start time - Panamanian Time": "12:15",
       "Last Modified": "2025-11-19T21:15:32.000Z"
+    },
+    {
+      "id": "recYQ4TwxlIILyilY",
+      "createdTime": "2025-11-26T06:20:53.000Z",
+      "start date": "29/11/2025",
+      "Start Time - sort": "2025-11-28T23:00:00.000Z",
+      "Start": "00:00",
+      "Start date - Panamanian date": "29/11/2025",
+      "Start time - Panamanian Time": "00:00",
+      "Last Modified": "2025-11-26T06:20:53.000Z"
     },
     {
       "id": "recYei9iaqencdAdx",
@@ -3189,21 +3189,6 @@
       "Last Modified": "2025-11-19T21:15:32.000Z"
     },
     {
-      "id": "reclF1CjNhAaNU8eB",
-      "createdTime": "2025-11-26T05:36:27.000Z",
-      "Title": "CITES Secretariat",
-      "Organizer/Chair": "CITES Sec",
-      "start date": "29/11/2025",
-      "Start Time - sort": "2025-11-28T23:00:00.000Z",
-      "Start": "00:00",
-      "Type": [
-        "Other"
-      ],
-      "Start date - Panamanian date": "29/11/2025",
-      "Start time - Panamanian Time": "00:00",
-      "Last Modified": "2025-11-26T05:37:39.000Z"
-    },
-    {
       "id": "reclJvJlWZR2LxbcI",
       "createdTime": "2025-11-22T09:19:10.000Z",
       "Title": "North America - Regional Meeting ",
@@ -3955,6 +3940,22 @@
       "Start date - Panamanian date": "29/11/2025",
       "Start time - Panamanian Time": "17:15",
       "Last Modified": "2025-11-19T21:15:32.000Z"
+    },
+    {
+      "id": "recvhGgIpbTRMgGTj",
+      "createdTime": "2025-11-26T05:47:02.000Z",
+      "start date": {
+        "error": "#ERROR!"
+      },
+      "Start": {
+        "error": "#ERROR!"
+      },
+      "Start date - Panamanian date": {
+        "error": "#ERROR!"
+      },
+      "Start time - Panamanian Time": {
+        "error": "#ERROR!"
+      }
     },
     {
       "id": "recvhYBOAgSI1W4AV",
