@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2025-11-26T15:05:34.318Z",
+  "exportedAt": "2025-11-26T15:06:34.273Z",
   "total": 243,
   "records": [
     {
@@ -3534,6 +3534,7 @@
       "id": "recpGZdNJiH7pBrLo",
       "createdTime": "2025-11-26T15:05:01.000Z",
       "Title": "Working Group on Paubrasilia echinata (Agenda Item 97 & Prop 46)",
+      "Organizer/Chair": "Working Group - Chair/Canada",
       "start date": {
         "error": "#ERROR!"
       },
@@ -3546,7 +3547,7 @@
       "Start time - Panamanian Time": {
         "error": "#ERROR!"
       },
-      "Last Modified": "2025-11-26T15:05:20.000Z"
+      "Last Modified": "2025-11-26T15:05:45.000Z"
     },
     {
       "id": "recpOQPAvyuVPtfH3",
