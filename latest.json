@@ -1,6 +1,6 @@
 {
-  "exportedAt": "2025-11-26T03:47:34.388Z",
-  "total": 238,
+  "exportedAt": "2025-11-26T05:04:34.260Z",
+  "total": 239,
   "records": [
     {
       "id": "rec04J6bNhLOTj4WH",
@@ -3752,6 +3752,24 @@
       "Start date - Panamanian date": "4/12/2025",
       "Start time - Panamanian Time": "17:15",
       "Last Modified": "2025-11-19T21:15:32.000Z"
+    },
+    {
+      "id": "recu4ihpy7TtSCOxm",
+      "createdTime": "2025-11-26T05:03:36.000Z",
+      "Title": "Credentials Commitee",
+      "start date": {
+        "error": "#ERROR!"
+      },
+      "Start": {
+        "error": "#ERROR!"
+      },
+      "Start date - Panamanian date": {
+        "error": "#ERROR!"
+      },
+      "Start time - Panamanian Time": {
+        "error": "#ERROR!"
+      },
+      "Last Modified": "2025-11-26T05:03:47.000Z"
     },
     {
       "id": "recuC3DLvgNPc1GBf",
