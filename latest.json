@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2025-11-26T07:29:34.431Z",
+  "exportedAt": "2025-11-26T07:30:34.374Z",
   "total": 242,
   "records": [
     {
@@ -94,13 +94,14 @@
     {
       "id": "rec1ScLQ8Ka25KaRf",
       "createdTime": "2025-11-26T07:26:33.000Z",
-      "Title": "CG",
+      "Title": "CGYN",
+      "Organizer/Chair": "CITES Secretariat",
       "start date": "29/11/2025",
-      "Start Time - sort": "2025-11-28T23:00:00.000Z",
-      "Start": "00:00",
+      "Start Time - sort": "2025-11-29T17:00:00.000Z",
+      "Start": "18:00",
       "Start date - Panamanian date": "29/11/2025",
-      "Start time - Panamanian Time": "00:00",
-      "Last Modified": "2025-11-26T07:29:31.000Z"
+      "Start time - Panamanian Time": "18:00",
+      "Last Modified": "2025-11-26T07:30:30.000Z"
     },
     {
       "id": "rec1Wr3UAnKferYsW",
