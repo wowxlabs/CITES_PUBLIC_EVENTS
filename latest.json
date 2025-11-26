@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2025-11-26T15:59:34.342Z",
+  "exportedAt": "2025-11-26T16:02:34.325Z",
   "total": 244,
   "records": [
     {
@@ -4150,19 +4150,13 @@
       "createdTime": "2025-11-26T15:57:40.000Z",
       "Title": "Working Group - ETIS Report (Agenda Item 76.5)",
       "Organizer/Chair": "Working Group - Chair/Singapore",
-      "start date": {
-        "error": "#ERROR!"
-      },
-      "Start": {
-        "error": "#ERROR!"
-      },
-      "Start date - Panamanian date": {
-        "error": "#ERROR!"
-      },
-      "Start time - Panamanian Time": {
-        "error": "#ERROR!"
-      },
-      "Last Modified": "2025-11-26T15:59:06.000Z"
+      "Room ": "Eulophia D. (70)",
+      "start date": "27/11/2025",
+      "Start Time - sort": "2025-11-27T16:02:00.000Z",
+      "Start": "17:02",
+      "Start date - Panamanian date": "27/11/2025",
+      "Start time - Panamanian Time": "17:02",
+      "Last Modified": "2025-11-26T16:02:32.000Z"
     },
     {
       "id": "recxnoq84GynyZK6x",
