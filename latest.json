@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2025-11-26T07:30:34.374Z",
+  "exportedAt": "2025-11-26T07:31:34.456Z",
   "total": 242,
   "records": [
     {
@@ -98,10 +98,15 @@
       "Organizer/Chair": "CITES Secretariat",
       "start date": "29/11/2025",
       "Start Time - sort": "2025-11-29T17:00:00.000Z",
+      "End": "19:00",
+      "Description of the side event": "Closed meeting",
       "Start": "18:00",
+      "Type": [
+        "Other"
+      ],
       "Start date - Panamanian date": "29/11/2025",
       "Start time - Panamanian Time": "18:00",
-      "Last Modified": "2025-11-26T07:30:30.000Z"
+      "Last Modified": "2025-11-26T07:31:08.000Z"
     },
     {
       "id": "rec1Wr3UAnKferYsW",
