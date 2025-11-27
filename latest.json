@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2025-11-27T08:51:34.316Z",
+  "exportedAt": "2025-11-27T08:52:34.227Z",
   "total": 246,
   "records": [
     {
@@ -2178,19 +2178,17 @@
       "Title": "CITES Secretariat - Closed Meeting",
       "Organizer/Chair": "CITES Secretariat - Closed Meeting",
       "Room ": "L. Orchid",
-      "start date": {
-        "error": "#ERROR!"
-      },
-      "Start": {
-        "error": "#ERROR!"
-      },
-      "Start date - Panamanian date": {
-        "error": "#ERROR!"
-      },
-      "Start time - Panamanian Time": {
-        "error": "#ERROR!"
-      },
-      "Last Modified": "2025-11-27T08:51:31.000Z"
+      "start date": "27/11/2025",
+      "Start Time - sort": "2025-11-27T18:00:00.000Z",
+      "End": "20:00",
+      "Description of the side event": "CITES Secretariat - Closed Meeting",
+      "Start": "19:00",
+      "Type": [
+        "Other"
+      ],
+      "Start date - Panamanian date": "27/11/2025",
+      "Start time - Panamanian Time": "19:00",
+      "Last Modified": "2025-11-27T08:51:57.000Z"
     },
     {
       "id": "recYei9iaqencdAdx",
