@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2025-11-28T12:30:34.220Z",
+  "exportedAt": "2025-11-28T12:37:34.241Z",
   "total": 251,
   "records": [
     {
@@ -3486,11 +3486,12 @@
       "Organizer/Chair": "Drafting Group ",
       "Room ": "G.Bustard (40)",
       "start date": "29/11/2025",
-      "Start Time - sort": "2025-11-29T07:00:00.000Z",
-      "Start": "08:00",
+      "Start Time - sort": "2025-11-29T07:30:00.000Z",
+      "End": "09:00",
+      "Start": "08:30",
       "Start date - Panamanian date": "29/11/2025",
-      "Start time - Panamanian Time": "08:00",
-      "Last Modified": "2025-11-28T12:29:48.000Z"
+      "Start time - Panamanian Time": "08:30",
+      "Last Modified": "2025-11-28T12:36:52.000Z"
     },
     {
       "id": "recobAJ22ETgkJ5L5",
