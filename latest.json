@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2025-11-28T12:28:34.267Z",
+  "exportedAt": "2025-11-28T12:30:34.220Z",
   "total": 251,
   "records": [
     {
@@ -3484,19 +3484,13 @@
       "createdTime": "2025-11-28T12:27:07.000Z",
       "Title": "Drafting Group - Great Apes (CoP20 Doc. 78.2) ",
       "Organizer/Chair": "Drafting Group ",
-      "start date": {
-        "error": "#ERROR!"
-      },
-      "Start": {
-        "error": "#ERROR!"
-      },
-      "Start date - Panamanian date": {
-        "error": "#ERROR!"
-      },
-      "Start time - Panamanian Time": {
-        "error": "#ERROR!"
-      },
-      "Last Modified": "2025-11-28T12:28:10.000Z"
+      "Room ": "G.Bustard (40)",
+      "start date": "29/11/2025",
+      "Start Time - sort": "2025-11-29T07:00:00.000Z",
+      "Start": "08:00",
+      "Start date - Panamanian date": "29/11/2025",
+      "Start time - Panamanian Time": "08:00",
+      "Last Modified": "2025-11-28T12:29:48.000Z"
     },
     {
       "id": "recobAJ22ETgkJ5L5",
