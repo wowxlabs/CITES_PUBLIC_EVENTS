@@ -1,6 +1,6 @@
 {
-  "exportedAt": "2025-11-28T12:53:34.476Z",
-  "total": 251,
+  "exportedAt": "2025-11-28T12:56:34.372Z",
+  "total": 252,
   "records": [
     {
       "id": "rec04J6bNhLOTj4WH",
@@ -1257,6 +1257,22 @@
       "Start date - Panamanian date": "25/11/2025",
       "Start time - Panamanian Time": "12:15",
       "Last Modified": "2025-11-19T21:15:32.000Z"
+    },
+    {
+      "id": "recML3V92WPbZ1Xy9",
+      "createdTime": "2025-11-28T12:56:09.000Z",
+      "start date": {
+        "error": "#ERROR!"
+      },
+      "Start": {
+        "error": "#ERROR!"
+      },
+      "Start date - Panamanian date": {
+        "error": "#ERROR!"
+      },
+      "Start time - Panamanian Time": {
+        "error": "#ERROR!"
+      }
     },
     {
       "id": "recMNBPK65Yrf1Pu9",
@@ -4415,8 +4431,8 @@
     {
       "id": "reczxTy5GaOvB70aq",
       "createdTime": "2025-11-28T09:18:46.000Z",
-      "Title": "CITES Secretariat - Closed meeting",
-      "Organizer/Chair": "CITES Secretariat - Closed meeting",
+      "Title": "Regional Meeting - Europe",
+      "Organizer/Chair": "Regional Meeting - EurClosed meeting",
       "Room ": "B.Stork (70)",
       "start date": "29/11/2025",
       "Start Time - sort": "2025-11-29T07:30:00.000Z",
@@ -4428,7 +4444,7 @@
       ],
       "Start date - Panamanian date": "29/11/2025",
       "Start time - Panamanian Time": "08:30",
-      "Last Modified": "2025-11-28T09:19:32.000Z"
+      "Last Modified": "2025-11-28T12:56:33.000Z"
     }
   ]
 }
