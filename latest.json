@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2025-11-29T15:56:34.360Z",
+  "exportedAt": "2025-11-29T15:57:34.225Z",
   "total": 263,
   "records": [
     {
@@ -1447,11 +1447,14 @@
       "start date": "1/12/2025",
       "Start Time - sort": "2025-12-01T12:00:00.000Z",
       "End": "14:00",
-      "Description of the side event": "African Group Meeting - Elephant Matters discussion ",
+      "Description of the side event": "Drafting Group - Definition of Stockpiles ",
       "Start": "13:00",
+      "Type": [
+        "Other"
+      ],
       "Start date - Panamanian date": "1/12/2025",
       "Start time - Panamanian Time": "13:00",
-      "Last Modified": "2025-11-29T15:56:28.000Z"
+      "Last Modified": "2025-11-29T15:56:39.000Z"
     },
     {
       "id": "recN3zfilyL2PuBtw",
