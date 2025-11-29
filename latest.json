@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2025-11-29T09:08:34.196Z",
+  "exportedAt": "2025-11-29T09:09:34.283Z",
   "total": 256,
   "records": [
     {
@@ -1127,11 +1127,16 @@
       "Organizer/Chair": "Working Group ",
       "Room ": "Rhodiola S. (Com II)",
       "start date": "29/11/2025",
-      "Start Time - sort": "2025-11-29T09:08:00.000Z",
-      "Start": "10:08",
+      "Start Time - sort": "2025-11-29T16:15:00.000Z",
+      "End": "19:00",
+      "Description of the side event": "Working Group - Pangolins (Agenda Item 79.1)",
+      "Start": "17:15",
+      "Type": [
+        "WG"
+      ],
       "Start date - Panamanian date": "29/11/2025",
-      "Start time - Panamanian Time": "10:08",
-      "Last Modified": "2025-11-29T09:08:30.000Z"
+      "Start time - Panamanian Time": "17:15",
+      "Last Modified": "2025-11-29T09:09:01.000Z"
     },
     {
       "id": "recKHdKndNge5RMeC",
