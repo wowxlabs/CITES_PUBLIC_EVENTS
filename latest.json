@@ -1,6 +1,6 @@
 {
-  "exportedAt": "2025-11-29T11:51:34.331Z",
-  "total": 257,
+  "exportedAt": "2025-11-29T11:58:34.355Z",
+  "total": 258,
   "records": [
     {
       "id": "rec04J6bNhLOTj4WH",
@@ -95,7 +95,7 @@
       "id": "rec1IATuXvaH0xL7v",
       "createdTime": "2025-11-29T11:47:48.000Z",
       "Title": "CITES Secretariat - Closed Meeting ",
-      "Organizer/Chair": "CITES Secretariat ",
+      "Organizer/Chair": "CITES Secretariat - Zimbabwe",
       "Room ": "D. Monitor (32)",
       "start date": "4/12/2025",
       "Start Time - sort": "2025-12-04T11:15:00.000Z",
@@ -107,7 +107,7 @@
       ],
       "Start date - Panamanian date": "4/12/2025",
       "Start time - Panamanian Time": "12:15",
-      "Last Modified": "2025-11-29T11:51:26.000Z"
+      "Last Modified": "2025-11-29T11:58:08.000Z"
     },
     {
       "id": "rec1ScLQ8Ka25KaRf",
@@ -2207,6 +2207,22 @@
       "Start date - Panamanian date": "5/12/2025",
       "Start time - Panamanian Time": "14:00",
       "Last Modified": "2025-11-19T21:15:32.000Z"
+    },
+    {
+      "id": "recXZHwNwGcyJydzt",
+      "createdTime": "2025-11-29T11:58:09.000Z",
+      "start date": {
+        "error": "#ERROR!"
+      },
+      "Start": {
+        "error": "#ERROR!"
+      },
+      "Start date - Panamanian date": {
+        "error": "#ERROR!"
+      },
+      "Start time - Panamanian Time": {
+        "error": "#ERROR!"
+      }
     },
     {
       "id": "recXxrBkssp9jPZOZ",
