@@ -1,6 +1,6 @@
 {
-  "exportedAt": "2025-11-29T15:15:34.216Z",
-  "total": 261,
+  "exportedAt": "2025-11-29T15:42:34.236Z",
+  "total": 262,
   "records": [
     {
       "id": "rec04J6bNhLOTj4WH",
@@ -1013,6 +1013,22 @@
       "Last Modified": "2025-11-19T21:15:32.000Z"
     },
     {
+      "id": "recIPvOEF6aeH56ih",
+      "createdTime": "2025-11-29T15:42:25.000Z",
+      "start date": {
+        "error": "#ERROR!"
+      },
+      "Start": {
+        "error": "#ERROR!"
+      },
+      "Start date - Panamanian date": {
+        "error": "#ERROR!"
+      },
+      "Start time - Panamanian Time": {
+        "error": "#ERROR!"
+      }
+    },
+    {
       "id": "recIcMLHBOjo5NmFk",
       "createdTime": "2025-11-23T17:13:54.000Z",
       "Title": "Daily Coordination Meeting - Central and South America and the Caribbean\n ",
@@ -1054,17 +1070,17 @@
       "Title": "HOPE – celebrating the life of Dr Jane Goodall DBE.",
       "Organizer/Chair": "HOPE – celebrating the life of Dr Jane Goodall DBE.",
       "Room ": "B.Stork (70)",
-      "start date": "1/12/2025",
-      "Start Time - sort": "2025-12-01T16:15:00.000Z",
+      "start date": "4/12/2025",
+      "Start Time - sort": "2025-12-04T16:15:00.000Z",
       "End": "18:45",
       "Description of the side event": "HOPE – celebrating the life of Dr Jane Goodall DBE.",
       "Start": "17:15",
       "Type": [
         "Other"
       ],
-      "Start date - Panamanian date": "1/12/2025",
+      "Start date - Panamanian date": "4/12/2025",
       "Start time - Panamanian Time": "17:15",
-      "Last Modified": "2025-11-29T13:42:49.000Z"
+      "Last Modified": "2025-11-29T15:41:52.000Z"
     },
     {
       "id": "recJ5J0rz33BDLJaD",
