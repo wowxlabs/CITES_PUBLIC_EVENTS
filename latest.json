@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2025-11-29T11:02:34.136Z",
+  "exportedAt": "2025-11-29T11:03:34.297Z",
   "total": 257,
   "records": [
     {
@@ -4383,20 +4383,18 @@
       "createdTime": "2025-11-29T09:10:54.000Z",
       "Title": "Working Group - Amendments to Resolution Conf. 12.3 (Rev. CoP19)",
       "Organizer/Chair": "Working Group - Chair/United States",
-      "start date": {
-        "error": "#ERROR!"
-      },
+      "Room ": "Saiga A. (120)",
+      "start date": "29/11/2025",
+      "Start Time - sort": "2025-11-29T16:30:00.000Z",
+      "End": "19:00",
       "Description of the side event": "To review the proposed amendments of paragraphs 24, h) and 3, ab) of Resolution Conf. 12.3 (Rev CoP19) on Permits and certificates, as contained in the Comments of the Secretariat, in document CoP20 Doc. 48 and report back to Committee II.",
-      "Start": {
-        "error": "#ERROR!"
-      },
-      "Start date - Panamanian date": {
-        "error": "#ERROR!"
-      },
-      "Start time - Panamanian Time": {
-        "error": "#ERROR!"
-      },
-      "Last Modified": "2025-11-29T11:02:24.000Z"
+      "Start": "17:30",
+      "Type": [
+        "WG"
+      ],
+      "Start date - Panamanian date": "29/11/2025",
+      "Start time - Panamanian Time": "17:30",
+      "Last Modified": "2025-11-29T11:03:07.000Z"
     },
     {
       "id": "recyIDByk6V9XzGHX",
