@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2025-11-29T13:02:34.362Z",
+  "exportedAt": "2025-11-29T13:03:34.236Z",
   "total": 258,
   "records": [
     {
@@ -4276,20 +4276,14 @@
     {
       "id": "recwpF3noUIWMZlT3",
       "createdTime": "2025-11-29T13:02:01.000Z",
-      "Title": "Working Group - Trade in Threatened Endemic Species ",
-      "start date": {
-        "error": "#ERROR!"
-      },
-      "Start": {
-        "error": "#ERROR!"
-      },
-      "Start date - Panamanian date": {
-        "error": "#ERROR!"
-      },
-      "Start time - Panamanian Time": {
-        "error": "#ERROR!"
-      },
-      "Last Modified": "2025-11-29T13:02:32.000Z"
+      "Title": "Working Group - Trade in Threatened Endemic Species (Agenda Item 73) ",
+      "Organizer/Chair": "Working Group - Chair/Australia",
+      "start date": "1/12/2025",
+      "Start Time - sort": "2025-12-01T13:03:00.000Z",
+      "Start": "14:03",
+      "Start date - Panamanian date": "1/12/2025",
+      "Start time - Panamanian Time": "14:03",
+      "Last Modified": "2025-11-29T13:03:33.000Z"
     },
     {
       "id": "recx3tWP5vmayHHSe",
