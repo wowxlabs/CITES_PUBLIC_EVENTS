@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2025-11-29T13:40:34.287Z",
+  "exportedAt": "2025-11-29T13:42:34.340Z",
   "total": 260,
   "records": [
     {
@@ -1034,19 +1034,15 @@
       "id": "recJ2opC2yFVWdEa6",
       "createdTime": "2025-11-29T13:39:52.000Z",
       "Title": "HOPE – celebrating the life of Dr Jane Goodall DBE.",
-      "start date": {
-        "error": "#ERROR!"
-      },
-      "Start": {
-        "error": "#ERROR!"
-      },
-      "Start date - Panamanian date": {
-        "error": "#ERROR!"
-      },
-      "Start time - Panamanian Time": {
-        "error": "#ERROR!"
-      },
-      "Last Modified": "2025-11-29T13:39:53.000Z"
+      "Organizer/Chair": "HOPE – celebrating the life of Dr Jane Goodall DBE.",
+      "Room ": "B.Stork (70)",
+      "start date": "1/12/2025",
+      "Start Time - sort": "2025-12-01T13:42:00.000Z",
+      "Description of the side event": "HOPE – celebrating the life of Dr Jane Goodall DBE.",
+      "Start": "14:42",
+      "Start date - Panamanian date": "1/12/2025",
+      "Start time - Panamanian Time": "14:42",
+      "Last Modified": "2025-11-29T13:42:26.000Z"
     },
     {
       "id": "recJ5J0rz33BDLJaD",
