@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2025-11-29T15:43:34.278Z",
+  "exportedAt": "2025-11-29T15:44:34.332Z",
   "total": 262,
   "records": [
     {
@@ -1019,11 +1019,16 @@
       "Organizer/Chair": "African Group",
       "Room ": "Markhor S. (70)",
       "start date": "1/12/2025",
-      "Start Time - sort": "2025-12-01T15:43:00.000Z",
-      "Start": "16:43",
+      "Start Time - sort": "2025-12-01T09:00:00.000Z",
+      "End": "12:00",
+      "Description of the side event": "African Group Meeting - Elephant Matters discussion ",
+      "Start": "10:00",
+      "Type": [
+        "Other"
+      ],
       "Start date - Panamanian date": "1/12/2025",
-      "Start time - Panamanian Time": "16:43",
-      "Last Modified": "2025-11-29T15:43:28.000Z"
+      "Start time - Panamanian Time": "10:00",
+      "Last Modified": "2025-11-29T15:43:51.000Z"
     },
     {
       "id": "recIcMLHBOjo5NmFk",
