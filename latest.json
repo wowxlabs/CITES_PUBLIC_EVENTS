@@ -1,6 +1,6 @@
 {
-  "exportedAt": "2025-11-29T15:44:34.332Z",
-  "total": 262,
+  "exportedAt": "2025-11-29T15:55:34.364Z",
+  "total": 263,
   "records": [
     {
       "id": "rec04J6bNhLOTj4WH",
@@ -1437,6 +1437,19 @@
       "Start date - Panamanian date": "28/11/2025",
       "Start time - Panamanian Time": "19:00",
       "Last Modified": "2025-11-24T03:19:35.000Z"
+    },
+    {
+      "id": "recMjuG39J4jMThTB",
+      "createdTime": "2025-11-29T15:54:22.000Z",
+      "Title": "Drafting Group - Definition of Stockpiles ",
+      "Organizer/Chair": "Drafting Group ",
+      "Room ": "S. Leopard (32)",
+      "start date": "1/12/2025",
+      "Start Time - sort": "2025-12-01T15:55:00.000Z",
+      "Start": "16:55",
+      "Start date - Panamanian date": "1/12/2025",
+      "Start time - Panamanian Time": "16:55",
+      "Last Modified": "2025-11-29T15:55:32.000Z"
     },
     {
       "id": "recN3zfilyL2PuBtw",
