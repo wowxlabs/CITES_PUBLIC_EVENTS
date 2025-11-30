@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2025-11-30T18:52:34.371Z",
+  "exportedAt": "2025-11-30T18:53:34.295Z",
   "total": 264,
   "records": [
     {
@@ -1035,19 +1035,18 @@
       "createdTime": "2025-11-30T18:52:18.000Z",
       "Title": "Drafting Group - Saiga",
       "Organizer/Chair": "Drafting Group",
-      "start date": {
-        "error": "#ERROR!"
-      },
-      "Start": {
-        "error": "#ERROR!"
-      },
-      "Start date - Panamanian date": {
-        "error": "#ERROR!"
-      },
-      "Start time - Panamanian Time": {
-        "error": "#ERROR!"
-      },
-      "Last Modified": "2025-11-30T18:52:31.000Z"
+      "Room ": "S. Leopard (32)",
+      "start date": "1/12/2025",
+      "Start Time - sort": "2025-12-01T10:00:00.000Z",
+      "End": "12.45",
+      "Description of the side event": "Drafting Group - Saiga",
+      "Start": "11:00",
+      "Type": [
+        "Other"
+      ],
+      "Start date - Panamanian date": "1/12/2025",
+      "Start time - Panamanian Time": "11:00",
+      "Last Modified": "2025-11-30T18:53:14.000Z"
     },
     {
       "id": "recIcMLHBOjo5NmFk",
