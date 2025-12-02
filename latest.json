@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2025-12-02T09:23:34.270Z",
+  "exportedAt": "2025-12-02T09:24:34.410Z",
   "total": 268,
   "records": [
     {
@@ -2469,9 +2469,12 @@
       "End": "20.30",
       "Description of the side event": "Finance and Budget Working Group ",
       "Start": "18:30",
+      "Type": [
+        "WG"
+      ],
       "Start date - Panamanian date": "2/12/2025",
       "Start time - Panamanian Time": "18:30",
-      "Last Modified": "2025-12-02T09:23:31.000Z"
+      "Last Modified": "2025-12-02T09:23:36.000Z"
     },
     {
       "id": "recZ41Mfzi2ZmuYA0",
