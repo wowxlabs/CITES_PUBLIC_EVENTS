@@ -1,6 +1,6 @@
 {
-  "exportedAt": "2025-12-02T03:30:34.319Z",
-  "total": 267,
+  "exportedAt": "2025-12-02T09:23:34.270Z",
+  "total": 268,
   "records": [
     {
       "id": "rec04J6bNhLOTj4WH",
@@ -2457,6 +2457,21 @@
       "Start date - Panamanian date": "24/11/2025",
       "Start time - Panamanian Time": "13:00",
       "Last Modified": "2025-11-19T21:15:32.000Z"
+    },
+    {
+      "id": "recZ3cP9M6Y9lS0EN",
+      "createdTime": "2025-12-02T09:22:48.000Z",
+      "Title": "Finance and Budget Working Group ",
+      "Organizer/Chair": "Finance and Budget Working Group ",
+      "Room ": "S. Leopard (32)",
+      "start date": "2/12/2025",
+      "Start Time - sort": "2025-12-02T17:30:00.000Z",
+      "End": "20.30",
+      "Description of the side event": "Finance and Budget Working Group ",
+      "Start": "18:30",
+      "Start date - Panamanian date": "2/12/2025",
+      "Start time - Panamanian Time": "18:30",
+      "Last Modified": "2025-12-02T09:23:31.000Z"
     },
     {
       "id": "recZ41Mfzi2ZmuYA0",
