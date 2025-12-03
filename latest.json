@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2025-12-03T10:11:34.212Z",
+  "exportedAt": "2025-12-03T10:12:34.420Z",
   "total": 269,
   "records": [
     {
@@ -486,19 +486,17 @@
       "Title": "CITES Secretariat - Closed Meeting ",
       "Organizer/Chair": "CITES Secretariat - Closed Meeting ",
       "Room ": "Manul (40)",
-      "start date": {
-        "error": "#ERROR!"
-      },
-      "Start": {
-        "error": "#ERROR!"
-      },
-      "Start date - Panamanian date": {
-        "error": "#ERROR!"
-      },
-      "Start time - Panamanian Time": {
-        "error": "#ERROR!"
-      },
-      "Last Modified": "2025-12-03T10:11:32.000Z"
+      "start date": "3/12/2025",
+      "Start Time - sort": "2025-12-03T16:15:00.000Z",
+      "End": "18:30",
+      "Description of the side event": "CITES Secretariat - Closed Meeting",
+      "Start": "17:15",
+      "Type": [
+        "Other"
+      ],
+      "Start date - Panamanian date": "3/12/2025",
+      "Start time - Panamanian Time": "17:15",
+      "Last Modified": "2025-12-03T10:12:19.000Z"
     },
     {
       "id": "rec8EKG7gEaWGr4OH",
