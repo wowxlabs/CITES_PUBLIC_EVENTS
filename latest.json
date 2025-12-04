@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2025-12-04T04:17:34.502Z",
+  "exportedAt": "2025-12-04T04:18:34.126Z",
   "total": 270,
   "records": [
     {
@@ -1625,11 +1625,16 @@
       "Organizer/Chair": "Extra-ordinary Animals Committee",
       "Room ": "S. Leopard (32)",
       "start date": "5/12/2025",
-      "Start Time - sort": "2025-12-05T04:17:00.000Z",
-      "Start": "05:17",
+      "Start Time - sort": "2025-12-05T16:00:00.000Z",
+      "End": "18:00",
+      "Description of the side event": "Extra-ordinary Animals Committee",
+      "Start": "17:00",
+      "Type": [
+        "Other"
+      ],
       "Start date - Panamanian date": "5/12/2025",
-      "Start time - Panamanian Time": "05:17",
-      "Last Modified": "2025-12-04T04:17:18.000Z"
+      "Start time - Panamanian Time": "17:00",
+      "Last Modified": "2025-12-04T04:18:26.000Z"
     },
     {
       "id": "recObqdsshuwdOXjv",
